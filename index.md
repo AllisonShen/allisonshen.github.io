@@ -4,9 +4,9 @@
 
 ### Education
 
-**Overall GPA:** 3.98 / 4.0
+Overall GPA: 3.98 / 4.0
 
-**Major GPA:** 4.0 / 4.0
+Major GPA: 4.0 / 4.0
 
 ### Honors
 
@@ -16,7 +16,7 @@
 
 ---
 [Top 40 and Finalist in the Illinois Technology Association (ITA) Tech Challenge Programming Competition - 2019](https://www.itatechchallenge.com/)
-<img src="images/ita.png?raw=true"/>
+<img src="images/ITA.png?raw=true"/>
 
 
 ### Project Experience
