@@ -36,7 +36,7 @@ Major GPA: 4.0 / 4.0
 - [E-Commerce Website](/sample_page)
 
 
-### Courses Experience
+### Course Experience
 
 - Data Structure, Design Analysis Algorithms, Python Scripting For Security, Programming Using C, Programming With Java, Object Oriented Programming (C++), Database Model &Implem (MySQL), Applied Database Tech, Distrib Appl Developmt (PHP), Distrib Appl Arch&Dsgn, Web Tech & Xml Tech (C#)
 
