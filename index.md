@@ -11,7 +11,7 @@ Major GPA: 4.0 / 4.0
 ### Honors
 
 
-[Awards for Best Visualization in Purdue's 7th Annual ASA DataFest Competition - 2021](https://datamine.purdue.edu/datafest.html)
+[Award for Best Visualization in Purdue's 7th Annual ASA DataFest Competition - 2021](https://datamine.purdue.edu/datafest.html)
 <img src="images/datafest.png?raw=true"/>
 
 ---
