@@ -30,6 +30,7 @@ Major GPA: 4.0 / 4.0
 - [Verification Code Recognition Based on Convolutional Autoencoder and Convolutional Neural Network](/sample_page)
 
 - [A Reinforcement Learning based Stabilization Module for Airplane Flight with Q-Learning](/sample_page)
+
 - [Application of Convolutional Neural Network to Build Autoencoder and Implement Prediction for Airfoil](/sample_page)
 
 - [E-Commerce Website](/sample_page)
