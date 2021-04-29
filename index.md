@@ -2,28 +2,39 @@
 
 ---
 
-### Category Name 1 
+### Education
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**Overall GPA:** 3.98 / 4.0
+
+**Major GPA:** 4.0 / 4.0
+
+### Honors
+
+
+[Awards for Best Visualization in Purdue's 7th Annual ASA DataFest Competition - 2021](https://datamine.purdue.edu/datafest.html)
+<img src="images/datafest.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Top 40 and Finalist in the Illinois Technology Association (ITA) Tech Challenge Programming Competition - 2019](https://www.itatechchallenge.com/)
+<img src="images/ita.png?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+### Project Experience
 
-### Category Name 2
+- [Malware Detectin](/sample_page)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [UAV-based Object Detector: Human Detection with Convolutional Neural Network](/sample_page)
+
+- [Twitter Scraper](/sample_page)
+
+- [Verification Code Recognition Based on Convolutional Autoencoder and Convolutional Neural Network](/sample_page)
+
+- [A Reinforcement Learning based Stabilization Module for Airplane Flight with Q-Learning](/sample_page)
+- [Application of Convolutional Neural Network to Build Autoencoder and Implement Prediction for Airfoil](/sample_page)
+
+- [E-Commerce Website](/sample_page)
+
+
 
 ---
 
