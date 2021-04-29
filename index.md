@@ -21,7 +21,7 @@ Major GPA: 4.0 / 4.0
 
 ### Project Experience
 
-- [Malware Detectin](/sample_page)
+- [Malware Detection](/sample_page)
 
 - [UAV-based Object Detector: Human Detection with Convolutional Neural Network](/sample_page)
 
