@@ -36,6 +36,27 @@ Major GPA: 4.0 / 4.0
 - [E-Commerce Website](/sample_page)
 
 
+### Courses Experience
+
+- Data Structure, Design Analysis Algorithms, Python Scripting For Security, Programming Using C, Programming With Java, Object Oriented Programming
+
+- Database Model &Implem, Applied Database Tech, Distrib Appl Developmt, Distrib Appl Arch&Dsgn, Web Tech & Xml Tech 
+
+- Applied Machine Learning, Supervised Practice, Sr Proj Undergrad Res
+
+- Operating Systems Tech, Adv Operating Systems, System Admin & Mgmt
+
+- Software Assurance, Assur Sys Des & Implem, Systems Assurance, Fund Of Info Assurance
+
+- Intro To Blockchain Tech, Netwrk Dsgn & Implemtn, Network Technologies, Internetworking Tech
+
+- Managing IT Project, Info Tech Fundamentals, Pol, Reg & Global Info Tech, Design Thinking In Technology, Disaster Recovery&Plan
+
+- Business Accounting, Business Prin Org Leadership, Foundations Of Org Leadership, Com Global Workplace, Prin Of Economics, Elementary Psychology, Marketing Management
+
+- English Composition II, Business Writing, Scien Writ & Presentation
+
+- Calculus, Linear Algebra, Engineering Mathematics (Probability Theory and Mathematical Statistics), Discrete Mathematics, Physics
 
 ---
 
