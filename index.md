@@ -33,7 +33,7 @@ Major GPA: 4.0 / 4.0
 
 - [Application of Convolutional Neural Network to Build Autoencoder and Implement Prediction for Airfoil](/sample_page)
 
-- [Visualising the digital twin using augmented reality based on Web](/sample_page)
+- [Visualising the Digital Twin Using Augmented Reality Based on Web](/sample_page)
 
 - [E-Commerce Website](/sample_page)
 
