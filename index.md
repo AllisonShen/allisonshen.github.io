@@ -16,13 +16,12 @@ Major GPA: 4.0 / 4.0
 - **Xiaxin Shen**, Haeun Ko, Yeji Gong, Taeuk Gwak, Jihyeon Noh, Minji Lee, and Eric T. Matson. UAV Ground Scanning System: Human Detectionfrom Infrared Imagery with Deep Learning (In Preparation & Draft Available)
 
 ### Awards
-- [National-wide: 3rd place in the SAE Mobility Forward Challenge: AI Mini-Challenge Competition](/sample_page)
+- [National-wide: 3rd place in the SAE Mobility Forward Challenge: AI Mini-Challenge Competition](https://www.sae.org/attend/student-events/mobilityforward-challenge/teams)
 
-- [Award for Best Visualization in Purdue's 7th Annual ASA DataFest Competition - 2021](/sample_page)
+- [Award for Best Visualization in Purdue's 7th Annual ASA DataFest Competition - 2021](https://datamine.purdue.edu/datafest.html)
 
-- [Top 40 and Finalist in the Illinois Technology Association (ITA) Tech Challenge Programming Competition - 2019](/sample_page)
-
-
+<!-- --- -->
+- [Top 40 and Finalist in the Illinois Technology Association (ITA) Tech Challenge Programming Competition - 2019](https://www.itatechchallenge.com/)
 
 ### Project Experience
 
