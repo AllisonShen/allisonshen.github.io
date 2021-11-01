@@ -3,7 +3,7 @@
 ---
 
 ### Education
-B.S. [Computer Information Technology](https://polytechnic.purdue.edu/degrees/computer-and-information-technology), [Purdue University](https://www.purdue.edu/) (May 2022)
+[B.S. Computer Information Technology](https://polytechnic.purdue.edu/degrees/computer-and-information-technology), [Purdue University](https://www.purdue.edu/) (May 2022)
 
 Overall GPA: 3.98 / 4.0
 
