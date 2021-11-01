@@ -9,6 +9,12 @@ Overall GPA: 3.98 / 4.0
 
 Major GPA: 4.0 / 4.0
 
+### Publication
+
+- Upinder Kaur, Haozhe Zhou, **Xiaxin Shen**, Byung-Cheol Min, and Richard M. Voyles. Robomal: Malware detection for robot network systems. In *2021 IEEE International Conference on Robotic Computing*. IEEE, 2021 (Accepted)
+- David Richter, Lance J. Natonski, **Xiaxin Shen**, and Ricardo A. Calix. Attitude control for fixed-wing aircraft using q-learning (Under Review)
+- **Xiaxin Shen**, Haeun Ko, Yeji Gong, Taeuk Gwak, Jihyeon Noh, Minji Lee, and Eric T. Matson. UAV Ground Scanning System: Human Detectionfrom Infrared Imagery with Deep Learning (In Preparation & Draft Available)
+
 ### Honors
 
 
