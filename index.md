@@ -18,10 +18,12 @@ Major GPA: 4.0 / 4.0
 ### Awards
 - [National-wide: 3rd place in the SAE Mobility Forward Challenge: AI Mini-Challenge Competition](https://www.sae.org/attend/student-events/mobilityforward-challenge/teams)
 
-- [Award for Best Visualization in Purdue's 7th Annual ASA DataFest Competition - 2021](https://datamine.purdue.edu/datafest.html)
+- [University-wide: Award for Best Visualization in Purdue's 7th Annual ASA DataFest Competition - 2021](https://datamine.purdue.edu/datafest.html)
 
 <!-- --- -->
-- [Top 40 and Finalist in the Illinois Technology Association (ITA) Tech Challenge Programming Competition - 2019](https://www.itatechchallenge.com/)
+- [National-wide: Top 40 and Finalist in the Illinois Technology Association (ITA) Tech Challenge Programming Competition - 2019](https://www.itatechchallenge.com/)
+
+<img src="images/ITA.png?raw=true"/>
 
 ### Project Experience
 
@@ -39,22 +41,6 @@ Major GPA: 4.0 / 4.0
 
 - [E-Commerce Website](https://github.com/AllisonShen/ecommerce)
 
-
-<!-- - [Malware Detection](/sample_page)
-
-- [UAV-based Object Detector: Human Detection with Convolutional Neural Network](/sample_page)
-
-- [Twitter Scraper](/sample_page)
-
-- [Verification Code Recognition Based on Convolutional Autoencoder and Convolutional Neural Network](/sample_page)
-
-- [A Reinforcement Learning based Stabilization Module for Airplane Flight with Q-Learning](/sample_page)
-
-- [Application of Convolutional Neural Network to Build Autoencoder and Implement Prediction for Airfoil](/sample_page)
-
-- [Visualising the Digital Twin Using Augmented Reality Based on Web](/sample_page)
-
-- [E-Commerce Website](/sample_page) -->
 
 
 ### Course Experience
