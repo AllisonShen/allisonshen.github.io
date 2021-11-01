@@ -41,7 +41,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Roadmap
 
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/evanca/machine-learning_optimizing-app-offers-with-starbucks/issues) for a list of proposed features (and known issues).
 ___
 
 ### References
@@ -49,3 +49,14 @@ ___
 [1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
 <br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
 <br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+
+
+What is done:
+--------------------
+- [x] Update the image
+- [x] Update the _config.yml
+
+
+To be continued... (not anytime soon)
+--------------------
+- [ ] Update the index.md
