@@ -9,20 +9,21 @@ Overall GPA: 3.98 / 4.0
 
 Major GPA: 4.0 / 4.0
 
-### Publication
+### Publications
 
 - Upinder Kaur, Haozhe Zhou, **Xiaxin Shen**, Byung-Cheol Min, and Richard M. Voyles. Robomal: Malware detection for robot network systems. In *2021 IEEE International Conference on Robotic Computing*. IEEE, 2021 (Accepted)
 - David Richter, Lance J. Natonski, **Xiaxin Shen**, and Ricardo A. Calix. Attitude control for fixed-wing aircraft using q-learning (Under Review)
 - **Xiaxin Shen**, Haeun Ko, Yeji Gong, Taeuk Gwak, Jihyeon Noh, Minji Lee, and Eric T. Matson. UAV Ground Scanning System: Human Detectionfrom Infrared Imagery with Deep Learning (In Preparation & Draft Available)
 
-### Honors
+### Awards
+- [National-wide: 3rd place in the SAE Mobility Forward Challenge: AI Mini-Challenge Competition] (https://www.sae.org/servlets/collegiateCompetition?OBJECT=CollegiateCompetition&OBJECT_TYPE=CollegiateCompetition&PAGE=getTeamMainPage&COMP_CODE=MFC)
+<img src="images/sae.png?raw=true"/>
 
-
-[Award for Best Visualization in Purdue's 7th Annual ASA DataFest Competition - 2021](https://datamine.purdue.edu/datafest.html)
+- [Award for Best Visualization in Purdue's 7th Annual ASA DataFest Competition - 2021](https://datamine.purdue.edu/datafest.html)
 <img src="images/datafest.png?raw=true"/>
 
----
-[Top 40 and Finalist in the Illinois Technology Association (ITA) Tech Challenge Programming Competition - 2019](https://www.itatechchallenge.com/)
+<!-- --- -->
+- [Top 40 and Finalist in the Illinois Technology Association (ITA) Tech Challenge Programming Competition - 2019](https://www.itatechchallenge.com/)
 <img src="images/ITA.png?raw=true"/>
 
 
