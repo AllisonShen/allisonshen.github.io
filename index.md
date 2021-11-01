@@ -48,23 +48,23 @@ Major GPA: 4.0 / 4.0
 
 ### Course Experience
 
-- Coding: Data Structure, Design Analysis Algorithms, Python Scripting For Security, Programming Using C, Programming With Java, Object Oriented Programming (C++), Database Model &Implementation (MySQL), Applied Database Technology, Distributed Appllication Development (PHP), Distributed Appllication Archetecture & Design, Web Technology & Xml Technology (C#), Software Development for Mobile Computers (Android)
+- **Coding:** Data Structure, Design Analysis Algorithms, Python Scripting For Security, Programming Using C, Programming With Java, Object Oriented Programming (C++), Database Model &Implementation (MySQL), Applied Database Technology, Distributed Appllication Development (PHP), Distributed Appllication Archetecture & Design, Web Technology & Xml Technology (C#), Software Development for Mobile Computers (Android)
 
-- AI & Robotics: Applied Machine Learning, Supervised Practice, Senior Project Undergraduate Research, Independent Study
+- **AI & Robotics:** Applied Machine Learning, Supervised Practice, Senior Project Undergraduate Research, Independent Study
 
-- Archetecture: Operating Systems Technology, Advanced Operating Systems, System Administration & Management
+- **Archetecture:** Operating Systems Technology, Advanced Operating Systems, System Administration & Management
 
-- Security: Software Assurance, Assured System Design & Implementation, Systems Assurance, Fundamental Of Information Assurance
+- **Security:** Software Assurance, Assured System Design & Implementation, Systems Assurance, Fundamental Of Information Assurance
 
-- Networks: Introduction To Blockchain Technologies, Network Design & Implementation, Network Technologies, Internetworking Technologies
+- **Networks: Introduction To Blockchain Technologies, Network Design & Implementation, Network Technologies, Internetworking Technologies**
 
-- Project Management & Technology: Managing IT Project, Information Technology Fundamentals, Policy, Regulation & Globalization Information Technology, Design Thinking In Technology, Disaster Recovery & Plan
+- **Project Management & Technology:** Managing IT Project, Information Technology Fundamentals, Policy, Regulation & Globalization Information Technology, Design Thinking In Technology, Disaster Recovery & Plan
 
-- Business & Communication: Business Accounting, Business Principle Organization Leadership, Foundations Of Organization Leadership, Communicating in the Global Workplace, Small Group Communication, Critical Thinking and Communication, Principle Of Economics, Elementary Psychology, Marketing Management
+- **Business & Communication:** Business Accounting, Business Principle Organization Leadership, Foundations Of Organization Leadership, Communicating in the Global Workplace, Small Group Communication, Critical Thinking and Communication, Principle Of Economics, Elementary Psychology, Marketing Management
 
-- English: English Composition II, Business Writing, Scientific Writing & Presentation
+- **English:** English Composition II, Business Writing, Scientific Writing & Presentation
 
-- Science: Calculus, Linear Algebra, Engineering Mathematics (Probability Theory and Mathematical Statistics), Discrete Mathematics, Physics
+- **Science:** Calculus, Linear Algebra, Engineering Mathematics (Probability Theory and Mathematical Statistics), Discrete Mathematics, Physics
 
 ---
 
