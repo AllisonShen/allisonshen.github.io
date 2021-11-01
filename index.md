@@ -20,29 +20,38 @@ Major GPA: 4.0 / 4.0
 
 ### Awards
 - [National-wide: 3rd place in the SAE Mobility Forward Challenge: AI Mini-Challenge Competition](https://www.sae.org/attend/student-events/mobilityforward-challenge/teams)
-
+	+ Advised by [Dr. Baijian Yang](https://baijianyang.netlify.app/?_ga=2.35132836.467260173.1635736753-349751764.1611679036)
+	+ 
 - [University-wide: Award for Best Visualization in Purdue's 7th Annual ASA DataFest Competition - 2021](https://datamine.purdue.edu/datafest.html)
 
 - [National-wide: Top 40 and Finalist in the Illinois Technology Association (ITA) Tech Challenge Programming Competition - 2019](https://www.itatechchallenge.com/)
 
 <img src="images/awards.png?raw=true"/>
 
+### Research Experience
 
-### Project Experience
+- [UAV Ground Scanning System: Human Detectionfrom Infrared Imagery with Deep Learning](https://github.com/AllisonShen/UAV)
 
-- [Malware Detection](https://github.com/AllisonShen/MalConv-Pytorch)
-
-- [Twitter Scraper](https://github.com/AllisonShen/TwitterScraper)
-
-- [Verification Code Recognition Based on Convolutional Autoencoder and Convolutional Neural Network](https://github.com/AllisonShen/CV_capcha)
+- [Malware Detection for Robot Network Systems](https://github.com/AllisonShen/MalConv-Pytorch)
 
 - [A Reinforcement Learning based Stabilization Module for Airplane Flight with Q-Learning](https://github.com/AllisonShen/rl_xplane)
 
 - [Flow Simulation with CNN and Feature Extraction with Autoencoder for Airfoil Images](https://github.com/AllisonShen/CV_airfoil)
 
+### Projects
+
+
+- [RLEAM Reader: Read, Learn, and Memorize (Android Development)](https://github.com/AllisonShen/RLEAM-Reader)
+
+- [File Persistence](https://github.com/AllisonShen/security_mft)
+
+- [Twitter Scraper](https://github.com/AllisonShen/TwitterScraper)
+
+- [Verification Code Recognition Based on Convolutional Autoencoder and Convolutional Neural Network](https://github.com/AllisonShen/CV_capcha)
+
 - [Visualising the Digital Twin Using Augmented Reality Based on Web](https://github.com/AllisonShen/webAR)
 
-- [E-Commerce Website](https://github.com/AllisonShen/ecommerce)
+- [E-Commerce Website (Web Development)](https://github.com/AllisonShen/ecommerce)
 
 
 
