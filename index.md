@@ -11,9 +11,12 @@ Major GPA: 4.0 / 4.0
 
 ### Publications
 
-- Upinder Kaur, Haozhe Zhou, **Xiaxin Shen**, Byung-Cheol Min, and Richard M. Voyles. Robomal: Malware detection for robot network systems. In *2021 IEEE International Conference on Robotic Computing*. IEEE, 2021 (Accepted)
-- David J. Richter, Lance Natonski, **Xiaxin Shen**, and Ricardo A. Calix. Attitude control for fixed-wing aircraft using q-learning (Under Review)
+\[J\]: Journal, \[C\]: Conference
+
+- \[C\]Upinder Kaur, Haozhe Zhou, **Xiaxin Shen**, Byung-Cheol Min, and Richard M. Voyles. "Robomal: Malware detection for robot network systems", *2021 IEEE International Conference on Robotic Computing (IRC)*. IEEE, Taichung, Taiwan, November 15-17, 2021 (Accepted)
+- \[J\]David J. Richter, Lance Natonski, **Xiaxin Shen**, and Ricardo A. Calix. "Attitude control for fixed-wing aircraft using q-learning". *International Conference on Intelligent Human Computer Interaction*. Springer (Under Review)
 - **Xiaxin Shen**, Haeun Ko, Yeji Gong, Taeuk Gwak, Jihyeon Noh, Minji Lee, and Eric T. Matson. UAV Ground Scanning System: Human Detectionfrom Infrared Imagery with Deep Learning (In Preparation & Draft Available)
+
 
 ### Awards
 - [National-wide: 3rd place in the SAE Mobility Forward Challenge: AI Mini-Challenge Competition](https://www.sae.org/attend/student-events/mobilityforward-challenge/teams)
