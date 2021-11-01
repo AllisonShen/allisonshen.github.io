@@ -1,7 +1,7 @@
 title: Xiaxin Shen # your name (or website title) here
 logo: "/images/logo_real.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Computer and Information Technology Student at Purdue University (https://www.purdue.edu/)
+  Computer and Information Technology Student at <a href="https://www.purdue.edu/">Purdue University</a> 
   <br><br>
   Her research interests include machine learning, deep learning, computer vision, malware detection, reinforcement learning, robotics and security.
   <br><br>
