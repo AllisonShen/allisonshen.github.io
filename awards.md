@@ -1,5 +1,5 @@
 ### Awards
-- [National-wide: 3rd place in the SAE Mobility Forward Challenge: AI Mini-Challenge Competition] (https://www.sae.org/servlets/collegiateCompetition?OBJECT=CollegiateCompetition&OBJECT_TYPE=CollegiateCompetition&PAGE=getTeamMainPage&COMP_CODE=MFC)
+- [National-wide: 3rd place in the SAE Mobility Forward Challenge: AI Mini-Challenge Competition](https://www.sae.org/attend/student-events/mobilityforward-challenge/teams)
 <img src="images/sae.png?raw=true"/>
 
 - [Award for Best Visualization in Purdue's 7th Annual ASA DataFest Competition - 2021](https://datamine.purdue.edu/datafest.html)
