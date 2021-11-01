@@ -17,6 +17,15 @@ Major GPA: 4.0 / 4.0
 - \[J\] David J. Richter, Lance Natonski, **Xiaxin Shen**, and Ricardo A. Calix. "Attitude control for fixed-wing aircraft using q-learning", *International Conference on Intelligent Human Computer Interaction*. Springer (Under Review)
 - **Xiaxin Shen**, Haeun Ko, Yeji Gong, Taeuk Gwak, Jihyeon Noh, Minji Lee, and Eric T. Matson. UAV Ground Scanning System: Human Detectionfrom Infrared Imagery with Deep Learning (In Preparation & Draft Available)
 
+### Research Experience
+
+- [UAV Ground Scanning System: Human Detectionfrom Infrared Imagery with Deep Learning](https://github.com/AllisonShen/UAV)
+
+- [Malware Detection for Robot Network Systems](https://github.com/AllisonShen/MalConv-Pytorch)
+
+- [A Reinforcement Learning based Stabilization Module for Airplane Flight with Q-Learning](https://github.com/AllisonShen/rl_xplane)
+
+- [Flow Simulation with CNN and Feature Extraction with Autoencoder for Airfoil Images](https://github.com/AllisonShen/CV_airfoil)
 
 ### Awards
 - [National-wide: 3rd place in the SAE Mobility Forward Challenge: AI Mini-Challenge Competition](https://www.sae.org/attend/student-events/mobilityforward-challenge/teams)
@@ -34,15 +43,7 @@ Major GPA: 4.0 / 4.0
 
 <img src="images/awards.png?raw=true"/>
 
-### Research Experience
 
-- [UAV Ground Scanning System: Human Detectionfrom Infrared Imagery with Deep Learning](https://github.com/AllisonShen/UAV)
-
-- [Malware Detection for Robot Network Systems](https://github.com/AllisonShen/MalConv-Pytorch)
-
-- [A Reinforcement Learning based Stabilization Module for Airplane Flight with Q-Learning](https://github.com/AllisonShen/rl_xplane)
-
-- [Flow Simulation with CNN and Feature Extraction with Autoencoder for Airfoil Images](https://github.com/AllisonShen/CV_airfoil)
 
 ### Projects
 
