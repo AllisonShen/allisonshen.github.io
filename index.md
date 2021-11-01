@@ -21,7 +21,13 @@ Major GPA: 4.0 / 4.0
 ### Awards
 - [National-wide: 3rd place in the SAE Mobility Forward Challenge: AI Mini-Challenge Competition](https://www.sae.org/attend/student-events/mobilityforward-challenge/teams)
 	+ Advised by [Dr. Baijian Yang](https://baijianyang.netlify.app/?_ga=2.35132836.467260173.1635736753-349751764.1611679036)
-	+ 
+	+ SMATRA : A Smart Transportation Selection System to Avoid COVID-19
+	+ Proposed a promising solution to estimate COVID-19 infection risk level between two kinds of public transportation: Bus and rideshare
+	+ Deliverables:
+		* A score function to estimate COVID-19 infection risk level.
+		* A supervised machine learning model to predict passenger load for specific stops.
+		* A user interface to carry models and algorithms. 
+
 - [University-wide: Award for Best Visualization in Purdue's 7th Annual ASA DataFest Competition - 2021](https://datamine.purdue.edu/datafest.html)
 
 - [National-wide: Top 40 and Finalist in the Illinois Technology Association (ITA) Tech Challenge Programming Competition - 2019](https://www.itatechchallenge.com/)
