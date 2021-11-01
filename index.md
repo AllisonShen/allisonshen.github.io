@@ -3,6 +3,7 @@
 ---
 
 ### Education
+B.S. Computer Information Technology, Purdue University (May 2022)
 
 Overall GPA: 3.98 / 4.0
 
