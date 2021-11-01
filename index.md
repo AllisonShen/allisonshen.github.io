@@ -3,7 +3,7 @@
 ---
 
 ### Education
-B.S. Computer Information Technology, Purdue University (May 2022)
+B.S. [Computer Information Technology](https://polytechnic.purdue.edu/degrees/computer-and-information-technology), [Purdue University](https://www.purdue.edu/) (May 2022)
 
 Overall GPA: 3.98 / 4.0
 
@@ -82,6 +82,6 @@ Major GPA: 4.0 / 4.0
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- ---
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
