@@ -22,8 +22,8 @@ Major GPA: 4.0 / 4.0
 
 - [National-wide: Top 40 and Finalist in the Illinois Technology Association (ITA) Tech Challenge Programming Competition - 2019](https://www.itatechchallenge.com/)
 
-<img src="images/awards.png?raw=true"/>
-
+<!-- <img src="images/awards.png?raw=true"/>
+ -->
 
 ### Project Experience
 
