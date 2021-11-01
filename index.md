@@ -12,7 +12,7 @@ Major GPA: 4.0 / 4.0
 ### Publications
 
 - Upinder Kaur, Haozhe Zhou, **Xiaxin Shen**, Byung-Cheol Min, and Richard M. Voyles. Robomal: Malware detection for robot network systems. In *2021 IEEE International Conference on Robotic Computing*. IEEE, 2021 (Accepted)
-- David Richter, Lance J. Natonski, **Xiaxin Shen**, and Ricardo A. Calix. Attitude control for fixed-wing aircraft using q-learning (Under Review)
+- David J. Richter, Lance Natonski, **Xiaxin Shen**, and Ricardo A. Calix. Attitude control for fixed-wing aircraft using q-learning (Under Review)
 - **Xiaxin Shen**, Haeun Ko, Yeji Gong, Taeuk Gwak, Jihyeon Noh, Minji Lee, and Eric T. Matson. UAV Ground Scanning System: Human Detectionfrom Infrared Imagery with Deep Learning (In Preparation & Draft Available)
 
 ### Awards
@@ -20,10 +20,10 @@ Major GPA: 4.0 / 4.0
 
 - [University-wide: Award for Best Visualization in Purdue's 7th Annual ASA DataFest Competition - 2021](https://datamine.purdue.edu/datafest.html)
 
-<!-- --- -->
 - [National-wide: Top 40 and Finalist in the Illinois Technology Association (ITA) Tech Challenge Programming Competition - 2019](https://www.itatechchallenge.com/)
 
-<img src="images/ITA.png?raw=true"/>
+<img src="images/awards.png?raw=true"/>
+
 
 ### Project Experience
 
