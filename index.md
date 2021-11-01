@@ -48,23 +48,23 @@ Major GPA: 4.0 / 4.0
 
 ### Course Experience
 
-- Data Structure, Design Analysis Algorithms, Python Scripting For Security, Programming Using C, Programming With Java, Object Oriented Programming (C++), Database Model &Implem (MySQL), Applied Database Tech, Distrib Appl Developmt (PHP), Distrib Appl Arch&Dsgn, Web Tech & Xml Tech (C#)
+- Coding: Data Structure, Design Analysis Algorithms, Python Scripting For Security, Programming Using C, Programming With Java, Object Oriented Programming (C++), Database Model &Implementation (MySQL), Applied Database Technology, Distributed Appllication Development (PHP), Distributed Appllication Archetecture & Design, Web Technology & Xml Technology (C#), Software Development for Mobile Computers (Android)
 
-- Applied Machine Learning, Supervised Practice, Sr Proj Undergrad Res
+- AI & Robotics: Applied Machine Learning, Supervised Practice, Senior Project Undergraduate Research, Independent Study
 
-- Operating Systems Tech, Adv Operating Systems, System Admin & Mgmt
+- Archetecture: Operating Systems Technology, Advanced Operating Systems, System Administration & Management
 
-- Software Assurance, Assur Sys Des & Implem, Systems Assurance, Fund Of Info Assurance
+- Security: Software Assurance, Assured System Design & Implementation, Systems Assurance, Fundamental Of Information Assurance
 
-- Intro To Blockchain Tech, Netwrk Dsgn & Implemtn, Network Technologies, Internetworking Tech
+- Networks: Introduction To Blockchain Technologies, Network Design & Implementation, Network Technologies, Internetworking Technologies
 
-- Managing IT Project, Info Tech Fundamentals, Pol, Reg & Global Info Tech, Design Thinking In Technology, Disaster Recovery&Plan
+- Project Management & Technology: Managing IT Project, Information Technology Fundamentals, Policy, Regulation & Globalization Information Technology, Design Thinking In Technology, Disaster Recovery & Plan
 
-- Business Accounting, Business Prin Org Leadership, Foundations Of Org Leadership, Com Global Workplace, Prin Of Economics, Elementary Psychology, Marketing Management
+- Business & Communication: Business Accounting, Business Principle Organization Leadership, Foundations Of Organization Leadership, Communicating in the Global Workplace, Small Group Communication, Critical Thinking and Communication, Principle Of Economics, Elementary Psychology, Marketing Management
 
-- English Composition II, Business Writing, Scien Writ & Presentation
+- English: English Composition II, Business Writing, Scientific Writing & Presentation
 
-- Calculus, Linear Algebra, Engineering Mathematics (Probability Theory and Mathematical Statistics), Discrete Mathematics, Physics
+- Science: Calculus, Linear Algebra, Engineering Mathematics (Probability Theory and Mathematical Statistics), Discrete Mathematics, Physics
 
 ---
 
