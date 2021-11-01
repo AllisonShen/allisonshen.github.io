@@ -11,7 +11,7 @@ Major GPA: 4.0 / 4.0
 
 ### Publications
 
-\[J\]: Journal, \[C\]: Conference
+\[C\]: Conference, \[J\]: Journal
 
 - \[C\] Upinder Kaur, Haozhe Zhou, **Xiaxin Shen**, Byung-Cheol Min, and Richard M. Voyles. "Robomal: Malware detection for robot network systems", *2021 IEEE International Conference on Robotic Computing (IRC)*. IEEE, Taichung, Taiwan, November 15-17, 2021 (Accepted)
 - \[J\] David J. Richter, Lance Natonski, **Xiaxin Shen**, and Ricardo A. Calix. "Attitude control for fixed-wing aircraft using q-learning", *International Conference on Intelligent Human Computer Interaction*. Springer (Under Review)
