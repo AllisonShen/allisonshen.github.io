@@ -92,7 +92,7 @@ Major GPA: 4.0 / 4.0
 
 - **AI & Robotics:** Applied Machine Learning, Supervised Practice, Senior Project Undergraduate Research, Independent Study
 
-- **Archetecture:** Operating Systems Technology, Advanced Operating Systems, System Administration & Management
+- **Architecture:** Operating Systems Technology, Advanced Operating Systems, System Administration & Management
 
 - **Security:** Software Assurance, Assured System Design & Implementation, Systems Assurance, Fundamental Of Information Assurance
 
