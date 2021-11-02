@@ -97,7 +97,7 @@ Major GPA: 4.0 / 4.0
 
 ### Course Experience
 
-- **Coding:** Data Structure, Design Analysis Algorithms, Python Scripting For Security, Programming Using C, Programming With Java, Object Oriented Programming (C++), Database Model &Implementation (MySQL), Applied Database Technology, Distributed Appllication Development (PHP), Distributed Appllication Archetecture & Design, Web Technology & Xml Technology (C#), Software Development for Mobile Computers (Android)
+- **Programming Languages:** Data Structure, Design Analysis Algorithms, Python Scripting For Security, Programming Using C, Programming With Java, Object Oriented Programming (C++), Database Model &Implementation (MySQL), Applied Database Technology, Distributed Appllication Development (PHP), Distributed Appllication Archetecture & Design, Web Technology & Xml Technology (C#), Software Development for Mobile Computers (Android)
 
 - **AI & Robotics:** Applied Machine Learning, Supervised Practice, Senior Project Undergraduate Research, Independent Study
 
