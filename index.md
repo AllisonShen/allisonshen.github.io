@@ -20,7 +20,7 @@ Major GPA: 4.0 / 4.0
 
 ### Research Experience
 
-- [UAV Ground Scanning System: Human Detectionfrom Infrared Imagery with Deep Learning](https://github.com/AllisonShen/UAV)
+- [UAV Ground Scanning System: Human Detection from Infrared Imagery with Deep Learning](https://github.com/AllisonShen/UAV)
 	+ Set up the IoT devices, including the Raspberry pi, the GPS sensor and the infrared camera sensor(more intro of the problem
 	+ Presented a novel human detection methodology based on deep convolutional neural network with UAV infrared imagery
 	+ Built and prepossessed the dataset including daytime and night infrared imaging  taken from a low-altitude downward angle with Python and TensorFlow Object Detection API
