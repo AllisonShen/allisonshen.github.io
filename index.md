@@ -27,22 +27,6 @@ Major GPA: 4.0 / 4.0
 
 - [Flow Simulation with CNN and Feature Extraction with Autoencoder for Airfoil Images](https://github.com/AllisonShen/CV_airfoil)
 
-### Awards
-- [National-wide: 3rd place in the SAE Mobility Forward Challenge: AI Mini-Challenge Competition - 2021](https://www.sae.org/attend/student-events/mobilityforward-challenge/teams)
-	+ Proposed a promising solution to estimate COVID-19 infection risk level between transportations: Bus and rideshare
-		* SMATRA : A Smart Transportation Selection System to Avoid COVID-19 
-
-- [University-wide: Award for Best Visualization in Purdue's 7th Annual ASA DataFest Competition - 2021](https://datamine.purdue.edu/datafest.html)
-	+ Proposed an analysis for illicit drugs in US and provided suggestions for reducing drug abuse
-
-- [National-wide: Top 40 and Finalist in the Illinois Technology Association (ITA) Tech Challenge Programming Competition - 2019](https://www.itatechchallenge.com/)
-	+ Top 40 in the first challenge of solving algorithms problems at HackerRank
-	+ In the final challenge, proposed a framework called *Upstander* for solving the social impact problem of public and private cyberbullying with the method of CNN and RNN
-
-<img src="images/awards.png?raw=true"/>
-
-
-
 ### Projects
 
 
@@ -58,7 +42,19 @@ Major GPA: 4.0 / 4.0
 
 - [E-Commerce Website (Web Development)](https://github.com/AllisonShen/ecommerce)
 
+### Awards
+- [National-wide: 3rd place in the SAE Mobility Forward Challenge: AI Mini-Challenge Competition - 2021](https://www.sae.org/attend/student-events/mobilityforward-challenge/teams)
+	+ Proposed a promising solution to estimate COVID-19 infection risk level between transportations: Bus and rideshare
+		* SMATRA : A Smart Transportation Selection System to Avoid COVID-19 
 
+- [University-wide: Award for Best Visualization in Purdue's 7th Annual ASA DataFest Competition - 2021](https://datamine.purdue.edu/datafest.html)
+	+ Proposed an analysis for illicit drugs in US and provided suggestions for reducing drug abuse
+
+- [National-wide: Top 40 and Finalist in the Illinois Technology Association (ITA) Tech Challenge Programming Competition - 2019](https://www.itatechchallenge.com/)
+	+ Top 40 in the first challenge of solving algorithms problems at HackerRank
+	+ In the final challenge, proposed a framework called *Upstander* for solving the social impact problem of public and private cyberbullying with the method of CNN and RNN
+
+<img src="images/awards.png?raw=true"/>
 
 ### Course Experience
 
@@ -81,9 +77,6 @@ Major GPA: 4.0 / 4.0
 - **Science:** Calculus, Linear Algebra, Engineering Mathematics (Probability Theory and Mathematical Statistics), Discrete Mathematics, Physics
 
 ---
-
-
-
 
 <!-- ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
