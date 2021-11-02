@@ -14,7 +14,8 @@ Major GPA: 4.0 / 4.0
 \[C\]: Conference, \[J\]: Journal
 
 - \[C\] Upinder Kaur, Haozhe Zhou, **Xiaxin Shen**, Byung-Cheol Min, and Richard M. Voyles. "Robomal: Malware detection for robot network systems", *2021 IEEE International Conference on Robotic Computing (IRC)*. IEEE, Taichung, Taiwan, November 15-17, 2021 (Accepted)
-- \[J\] David J. Richter, Lance Natonski, **Xiaxin Shen**, and Ricardo A. Calix. "Attitude control for fixed-wing aircraft using q-learning", *International Conference on Intelligent Human Computer Interaction*. Springer (Under Review)
+- \[J\] David J. Richter, Lance Natonski, **Xiaxin Shen**, and Ricardo A. Calix. "Attitude control for fixed-wing aircraft using q-learning", *2022 International Conference on Intelligent Human Computer Interaction*. Springer (Under Review)
+- \[C\] Upinder Kaur, Arunashish Datta, Haozhe Zhou, **Xiaxin Shen**, Shreyas Sen, Byung Cheol Min, Richard M. Voyles. *PAAg: A Reference Architecture and Testbed for Closed-Loop Precision Animal Agriculture*. 2022 ACM/IEEE International National Conference on Cyber-Physical Systems (ICCPS) (Under Review)
 - **Xiaxin Shen**, Haeun Ko, Yeji Gong, Taeuk Gwak, Jihyeon Noh, Minji Lee, and Eric T. Matson. UAV Ground Scanning System: Human Detection from Infrared Imagery with Deep Learning (In Preparation & Draft Available)
 
 ### Research Experience
@@ -29,7 +30,7 @@ Major GPA: 4.0 / 4.0
 - [Malware Detection for Robot Network Systems](https://github.com/AllisonShen/MalConv-Pytorch)
 	+ Developed the RoboMal dataset using the controller files of the publicly available autonomous car with Gazebo-based simulation for both robotic systems and simpler embedded actuator-based Cyber Physical Systems (CPS) 
 	+ Created a total of 450 binary executable and linkable format (ELF) files with 232 malware files and 218 good software files by modifying gains and scalars and manipulating the proportional–derivative (PD) control structure
-	+ Built a bidirectional Long Short-Term Memory (LSTM) based model with embedding for identifying the maliciousness of the code with an accuracy of 85\% and precision of 87\% which outperforms than other methods like CNN, GRU, and ANN
+	+ Built a bidirectional Long Short-Term Memory (LSTM) based model with embedding for identifying the maliciousness of the code with an accuracy of 85% and precision of 87% which outperforms than other methods like CNN, GRU, and ANN
 
 - [A Reinforcement Learning based Stabilization Module for Airplane Flight with Q-Learning](https://github.com/AllisonShen/rl_xplane)
 	+ Collaborated with 2 students to analyze and evaluate how a simulated Cessna 172 can learn to stabilize itself while in flight
