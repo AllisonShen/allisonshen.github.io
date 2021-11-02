@@ -34,7 +34,7 @@ Major GPA: 4.0 / 4.0
 	+ Implemented cloud storage and computing by utilizing ThingsBoard to build the dashboard to show sensor value plots temperature, gas, relative humidity, and pressure, based on MQTT protocol
 - [Malware Detection for Robot Network Systems](https://github.com/AllisonShen/MalConv-Pytorch)
 	+ Developed the RoboMal dataset using the controller files of the publicly available autonomous car with Gazebo-based simulation for both robotic systems and simpler embedded actuator-based Cyber Physical Systems (CPS) 
-	+ Created a total of 450 binary executable and linkable format (ELF) files with 232 malware files and 218 good software files by modifying gains and scalars and manipulating the proportional–derivative (PD) control structure
+	+ Created [RoboMal dataset](https://purr.purdue.edu/publications/3860/1) including a total of 450 binary executable and linkable format (ELF) files with 232 malware files and 218 good software files by modifying gains and scalars and manipulating the proportional–derivative (PD) control structure
 	+ Built a bidirectional Long Short-Term Memory (LSTM) based model with embedding for identifying the maliciousness of the code with an accuracy of 85% and precision of 87% which outperforms than other methods like CNN, GRU, and ANN
 
 - [A Reinforcement Learning based Stabilization Module for Airplane Flight with Q-Learning](https://github.com/AllisonShen/rl_xplane)
