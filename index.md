@@ -26,7 +26,12 @@ Major GPA: 4.0 / 4.0
 	+ Built and prepossessed the dataset including daytime and night infrared imaging  taken from a low-altitude downward angle with Python and TensorFlow Object Detection API
 	+ Implemented transfer learning with weights of YOLO v5 and SSD mobile net on the dataset
 	+ Working on deploying and pushing warning messages with GPS information when human are detected when searching or rescuing events are operated
-
+- [PAAg: Closed-Loop Precision Animal Agriculture](https://github.com/upinderKaur22/PrecisionAnimalAg)
+	+ Proposed a CPS reference architecture for closed-loop precision animal agriculture to deliver  individualized care to animals
+	+ Leveraged the uniqueness of animal agriculture in security mechanisms, communication (in-body to out-of-body), and real-time data-driven control
+	+ Augmented low-cost hardware for high-performance in deployment, testing, and validation 
+	+ Built long range (LoRa) communication between the smart collar node and the sensor edge node (inset) with the animal body tissues as the medium for data transmission
+	+ Implemented cloud storage and computing by utilizing ThingsBoard to build the dashboard to show sensor value plots temperature, gas, relative humidity, and pressure, based on MQTT protocol
 - [Malware Detection for Robot Network Systems](https://github.com/AllisonShen/MalConv-Pytorch)
 	+ Developed the RoboMal dataset using the controller files of the publicly available autonomous car with Gazebo-based simulation for both robotic systems and simpler embedded actuator-based Cyber Physical Systems (CPS) 
 	+ Created a total of 450 binary executable and linkable format (ELF) files with 232 malware files and 218 good software files by modifying gains and scalars and manipulating the proportional–derivative (PD) control structure
