@@ -28,14 +28,17 @@ Major GPA: 4.0 / 4.0
 - [Flow Simulation with CNN and Feature Extraction with Autoencoder for Airfoil Images](https://github.com/AllisonShen/CV_airfoil)
 
 ### Awards
-- [National-wide: 3rd place in the SAE Mobility Forward Challenge: AI Mini-Challenge Competition](https://www.sae.org/attend/student-events/mobilityforward-challenge/teams)
+- [National-wide: 3rd place in the SAE Mobility Forward Challenge: AI Mini-Challenge Competition - 2021](https://www.sae.org/attend/student-events/mobilityforward-challenge/teams)
 	+ SMATRA : A Smart Transportation Selection System to Avoid COVID-19 
 	+ Proposed a promising solution to estimate COVID-19 infection risk level between transportations: Bus and rideshare
+	
+	
 - [University-wide: Award for Best Visualization in Purdue's 7th Annual ASA DataFest Competition - 2021](https://datamine.purdue.edu/datafest.html)
-	+ Proposed an analysis for illicit drugs in US and suggestions for reducing drug abuse 
+	+ Proposed an analysis for illicit drugs in US and provided suggestions for reducing drug abuse
 
 - [National-wide: Top 40 and Finalist in the Illinois Technology Association (ITA) Tech Challenge Programming Competition - 2019](https://www.itatechchallenge.com/)
-	+ In the final challenge, proposed a framework called *Upstander* for solving the social impact problem of public and private cyberbullying
+	+ Top 40 in the first challenge of solving algorithms problems at HackerRank
+	+ In the final challenge, proposed a framework called *Upstander* for solving the social impact problem of public and private cyberbullying with the method of CNN and RNN
 
 <img src="images/awards.png?raw=true"/>
 
