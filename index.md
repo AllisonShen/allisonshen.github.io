@@ -29,10 +29,9 @@ Major GPA: 4.0 / 4.0
 
 ### Awards
 - [National-wide: 3rd place in the SAE Mobility Forward Challenge: AI Mini-Challenge Competition - 2021](https://www.sae.org/attend/student-events/mobilityforward-challenge/teams)
-	+ SMATRA : A Smart Transportation Selection System to Avoid COVID-19 
 	+ Proposed a promising solution to estimate COVID-19 infection risk level between transportations: Bus and rideshare
-	
-	
+		* SMATRA : A Smart Transportation Selection System to Avoid COVID-19 
+
 - [University-wide: Award for Best Visualization in Purdue's 7th Annual ASA DataFest Competition - 2021](https://datamine.purdue.edu/datafest.html)
 	+ Proposed an analysis for illicit drugs in US and provided suggestions for reducing drug abuse
 
