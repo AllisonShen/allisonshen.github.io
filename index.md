@@ -66,7 +66,11 @@ Major GPA: 4.0 / 4.0
 	+ Implementing the function of personalizing favorites lists from the text the user read
 	+ Realizing the association of favorites lists with dates, and helping users review and memorize with flashcards based on the forgetting curve
 
-- [File Persistence Tracking](https://github.com/AllisonShen/security_mft)
+- [Deleted File Persistence Tracking](https://github.com/AllisonShen/security_mft)
+	+ Recorded 7 sequential images from a single system over time which include operations of deleting files and other activities 
+	+ Created DFXML files to represent specific digital forensics artifacts which contain information on all file differences between the two images including deleted, new, and modified files 
+	+ Developed a tool to parse DFXML files with Python library lxml and saved results to CSV files
+	+ Analyzed the raw persistence data in terms of byte run, length, image offset, file offset, inode, and hashes
 
 
 - [Twitter Scraper](https://github.com/AllisonShen/TwitterScraper)
