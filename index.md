@@ -21,11 +21,10 @@ Major GPA: 4.0 / 4.0
 ### Research Experience
 
 - [UAV Ground Scanning System: Human Detection from Infrared Imagery with Deep Learning](https://github.com/AllisonShen/UAV)
-	+ Set up the IoT devices, including the Raspberry pi, the GPS sensor and the infrared camera sensor
-	+ Presented a novel human detection methodology based on deep convolutional neural network with UAV infrared imagery
-	+ Built and prepossessed the dataset including daytime and night infrared imaging  taken from a low-altitude downward angle with Python and TensorFlow Object Detection API
-	+ Implemented transfer learning with weights of YOLO v5 and SSD mobile net on the dataset
-	+ Working on deploying and pushing warning messages with GPS information when human are detected when searching or rescuing events are operated
+	+ Created LIAEHU dataset comprising low-altitude infrared aerial images for human detection
+	+ Presented an UAV ground scanning system developed with an infrared camera mounted on the UAV to detected human both in the daytime and at night 
+	+ Built a warning system for sending real-time notifications with GPS information if the result from the ground scanning system triggers the warning
+	+ Compared and analyzed the performance of several deep learning state-of-the-art models with the LIAEHU dataset including YOLOv3, YOLOv4, YOLOv5, YOLO X, MobileNetSSDv2, and EfficientDet with TensorFlow and Pytorch
 - [PAAg: Closed-Loop Precision Animal Agriculture](https://github.com/upinderKaur22/PrecisionAnimalAg)
 	+ Proposed a CPS reference architecture for closed-loop precision animal agriculture to deliver  individualized care to animals
 	+ Leveraged the uniqueness of animal agriculture in security mechanisms, communication (in-body to out-of-body), and real-time data-driven control
@@ -44,6 +43,7 @@ Major GPA: 4.0 / 4.0
 	+ Implemented sparse reward function and delta reward function which are trained separately and provides rewards respectively for certain states and all states
 
 - [Flow Simulation with CNN and Feature Extraction with Autoencoder for Airfoil Images](https://github.com/AllisonShen/CV_airfoil)
+	+ Proposed a deep learning-based solution for flow simulation for airfoil images
 	+ Cleaned data with Python for geometry images, data of pressure, velocity, coordinates of X and Y and constructed CSV files with those data
 	+ Built multiple autoencoder models with geometry images and extracted features with different settings of neurons
 	+ Implemented multiple CNN structures and trained models for getting a competitive prediction accuracy for Airfoil pressure and velocity with Python, TensorFlow, Google Colab, and Purdue's Scholar and Gilbreth computing resources
