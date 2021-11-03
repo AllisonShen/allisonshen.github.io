@@ -36,13 +36,13 @@ Major GPA: 4.0 / 4.0
 	+ Created [RoboMal dataset](https://purr.purdue.edu/publications/3860/1) including a total of 450 binary executable and linkable format (ELF) files with 232 malware files and 218 good software files by modifying gains and scalars and manipulating the proportional–derivative (PD) control structure
 	+ Built a bidirectional Long Short-Term Memory (LSTM) based model with embedding for identifying the maliciousness of the code with an accuracy of 85% and precision of 87% which outperforms than other methods like CNN, GRU, and ANN
 
-- [A Reinforcement Learning based Stabilization Module for Airplane Flight with Q-Learning](https://github.com/AllisonShen/rl_xplane)
+- [Attitude Control for Fixed-Wing Aircraft using Q-Learning](https://github.com/AllisonShen/rl_xplane)
 	+ Proposed a promising automated stabilization model for airplane flight based on Reinforcement Learning (RL) 
 	+ Applied algorithms Q-Learning to high dimensional, non-linear and complex tasks with a simulated aircraft Cessna 172 in JSBSim and X-Plane
 	+ Defined a Q-table with the size (states(168), actions(4)) by creating an encoding system by converting discrete action values to continuous values
 	+ Implemented sparse reward function and delta reward function which are trained separately and provides rewards respectively for certain states and all states
 
-- [Flow Simulation with CNN and Feature Extraction with Autoencoder for Airfoil Images](https://github.com/AllisonShen/CV_airfoil)
+- [Flow Simulation for Airfoil Images with Autoencoder and CNN](https://github.com/AllisonShen/CV_airfoil)
 	+ Proposed a deep learning-based solution for flow simulation for airfoil images
 	+ Cleaned data with Python for geometry images, data of pressure, velocity, coordinates of X and Y and constructed CSV files with those data
 	+ Built multiple autoencoder models with geometry images and extracted features with different settings of neurons
