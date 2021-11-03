@@ -38,9 +38,10 @@ Major GPA: 4.0 / 4.0
 	+ Built a bidirectional Long Short-Term Memory (LSTM) based model with embedding for identifying the maliciousness of the code with an accuracy of 85% and precision of 87% which outperforms than other methods like CNN, GRU, and ANN
 
 - [A Reinforcement Learning based Stabilization Module for Airplane Flight with Q-Learning](https://github.com/AllisonShen/rl_xplane)
-	+ Collaborated with 2 students to analyze and evaluate how a simulated Cessna 172 can learn to stabilize itself while in flight
-	+ Developed and tested a reinforcement learning based methodology for airplane stabilization using Python
-	+ Performed the analysis on X-plane 11 which is a realistic flight simulator
+	+ Proposed a promising automated stabilization model for airplane flight based on Reinforcement Learning (RL) 
+	+ Applied algorithms Q-Learning to high dimensional, non-linear and complex tasks with a simulated aircraft Cessna 172 in JSBSim and X-Plane
+	+ Defined a Q-table with the size (states(168), actions(4)) by creating an encoding system by converting discrete action values to continuous values
+	+ Implemented sparse reward function and delta reward function which are trained separately and provides rewards respectively for certain states and all states
 
 - [Flow Simulation with CNN and Feature Extraction with Autoencoder for Airfoil Images](https://github.com/AllisonShen/CV_airfoil)
 	+ Cleaned data with Python for geometry images, data of pressure, velocity, coordinates of X and Y and constructed CSV files with those data
