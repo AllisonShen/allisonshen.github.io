@@ -25,13 +25,13 @@ Major GPA: 4.0 / 4.0
 	+ Presented an UAV ground scanning system developed with an infrared camera mounted on the UAV to detected human both in the daytime and at night 
 	+ Built a warning system for sending real-time notifications with GPS information if the result from the ground scanning system triggers the warning
 	+ Compared and analyzed the performance of several deep learning state-of-the-art models with the LIAEHU dataset including YOLOv3, YOLOv4, YOLOv5, YOLO X, MobileNetSSDv2, and EfficientDet with TensorFlow and Pytorch
-- PAAg: Closed-Loop Precision Animal Agriculture
+- [PAAg: Closed-Loop Precision Animal Agriculture](https://www.purdue.edu/rosehub/research.animalAg.RoSeHUB.html)
 	+ Proposed a CPS reference architecture for closed-loop precision animal agriculture to deliver  individualized care to animals
 	+ Leveraged the uniqueness of animal agriculture in security mechanisms, communication (in-body to out-of-body), and real-time data-driven control
 	+ Augmented low-cost hardware for high-performance in deployment, testing, and validation 
 	+ Built long range (LoRa) communication between the smart collar node and the sensor edge node (inset) with the animal body tissues as the medium for data transmission
 	+ Implemented cloud storage and computing by utilizing ThingsBoard to build the dashboard to show sensor value plots temperature, gas, relative humidity, and pressure, based on MQTT protocol
-- [Malware Detection for Robot Network Systems](https://github.com/AllisonShen/MalConv-Pytorch)
+- [Malware Detection for Robot Network Systems](https://purr.purdue.edu/publications/3860/1) 
 	+ Developed the RoboMal dataset using the controller files of the publicly available autonomous car with Gazebo-based simulation for both robotic systems and simpler embedded actuator-based Cyber Physical Systems (CPS) 
 	+ Created [RoboMal dataset](https://purr.purdue.edu/publications/3860/1) including a total of 450 binary executable and linkable format (ELF) files with 232 malware files and 218 good software files by modifying gains and scalars and manipulating the proportional–derivative (PD) control structure
 	+ Built a bidirectional Long Short-Term Memory (LSTM) based model with embedding for identifying the maliciousness of the code with an accuracy of 85% and precision of 87% which outperforms than other methods like CNN, GRU, and ANN
