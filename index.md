@@ -25,7 +25,7 @@ Major GPA: 4.0 / 4.0
 	+ Presented an UAV ground scanning system developed with an infrared camera mounted on the UAV to detected human both in the daytime and at night 
 	+ Built a warning system for sending real-time notifications with GPS information if the result from the ground scanning system triggers the warning
 	+ Compared and analyzed the performance of several deep learning state-of-the-art models with the LIAEHU dataset including YOLOv3, YOLOv4, YOLOv5, YOLO X, MobileNetSSDv2, and EfficientDet with TensorFlow and Pytorch
-- [PAAg: Closed-Loop Precision Animal Agriculture](https://github.com/upinderKaur22/PrecisionAnimalAg)
+- PAAg: Closed-Loop Precision Animal Agriculture
 	+ Proposed a CPS reference architecture for closed-loop precision animal agriculture to deliver  individualized care to animals
 	+ Leveraged the uniqueness of animal agriculture in security mechanisms, communication (in-body to out-of-body), and real-time data-driven control
 	+ Augmented low-cost hardware for high-performance in deployment, testing, and validation 
@@ -36,13 +36,13 @@ Major GPA: 4.0 / 4.0
 	+ Created [RoboMal dataset](https://purr.purdue.edu/publications/3860/1) including a total of 450 binary executable and linkable format (ELF) files with 232 malware files and 218 good software files by modifying gains and scalars and manipulating the proportional–derivative (PD) control structure
 	+ Built a bidirectional Long Short-Term Memory (LSTM) based model with embedding for identifying the maliciousness of the code with an accuracy of 85% and precision of 87% which outperforms than other methods like CNN, GRU, and ANN
 
-- [Attitude Control for Fixed-Wing Aircraft using Q-Learning](https://github.com/AllisonShen/rl_xplane)
+- Attitude Control for Fixed-Wing Aircraft using Q-Learning
 	+ Proposed a promising automated stabilization model for airplane flight based on Reinforcement Learning (RL) 
 	+ Applied algorithms Q-Learning to high dimensional, non-linear and complex tasks with a simulated aircraft Cessna 172 in JSBSim and X-Plane
 	+ Defined a Q-table with the size (states(168), actions(4)) by creating an encoding system by converting discrete action values to continuous values
 	+ Implemented sparse reward function and delta reward function which are trained separately and provides rewards respectively for certain states and all states
 
-- [Flow Simulation for Airfoil Images with Autoencoder and CNN](https://github.com/AllisonShen/CV_airfoil)
+- Flow Simulation for Airfoil Images with Autoencoder and CNN
 	+ Proposed a deep learning-based solution for flow simulation for airfoil images
 	+ Cleaned data with Python for geometry images, data of pressure, velocity, coordinates of X and Y and constructed CSV files with those data
 	+ Built multiple autoencoder models with geometry images and extracted features with different settings of neurons
@@ -56,7 +56,7 @@ Major GPA: 4.0 / 4.0
 - [University-wide: Award for Best Visualization in Purdue's 7th Annual ASA DataFest Competition - 2021](https://datamine.purdue.edu/datafest.html)
 	+ Proposed an analysis for illicit drugs in US and provided suggestions for reducing drug abuse
 
-- [National-wide: Top 40 and Finalist in the Illinois Technology Association (ITA) Tech Challenge Programming Competition - 2019](https://www.itatechchallenge.com/)
+- National-wide: Top 40 and Finalist in the Illinois Technology Association (ITA) Tech Challenge Programming Competition - 2019
 	+ Top 40 in the first challenge of solving algorithms problems at HackerRank
 	+ In the final challenge, proposed a framework called *Upstander* for solving the social impact problem of public and private cyberbullying with the method of CNN and RNN
 
@@ -90,11 +90,10 @@ Major GPA: 4.0 / 4.0
 	+ Utilized WebAR technology for showing network status, device information and GPS location with the browser of the mobile phone when scanning images through the phone's camera
 	+ Applied three.js, jsartookit, and ar.js to the application and utilized jQuery for the ease use of JavasSript
 
-- [E-Commerce Website (Web Development)](https://github.com/AllisonShen/ecommerce)
+- E-Commerce Website 
 	+ Collaborated with 6 students to design and implemented front-end and back-end of the e-commerce website using HTML, JavaScript, CSS, PHP, MySQL
 	+ Utilized distributed application architecture and deployed the database at the Oracle server 
 	+ Identified user requirements, drew ER, EER diagram, and created relational schema to build the database
-
 
 ### Course Experience
 
