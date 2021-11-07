@@ -13,9 +13,9 @@ Major GPA: 4.0 / 4.0
 
 \[C\]: Conference, \[J\]: Journal
 
-- \[C\] Upinder Kaur, Haozhe Zhou, **Xiaxin Shen**, Byung-Cheol Min, and Richard M. Voyles. "Robomal: Malware detection for robot network systems", *2021 IEEE International Conference on Robotic Computing (IRC)*. IEEE, Taichung, Taiwan, November 15-17, 2021 (Accepted)
-- \[J\] David J. Richter, Lance Natonski, **Xiaxin Shen**, and Ricardo A. Calix. "Attitude control for fixed-wing aircraft using q-learning", *2021 International Conference on Intelligent Human Computer Interaction (IHCI)*. Springer, Kent, OH, United States, December 20-22, 2021 (Accepted)
-- \[C\] Upinder Kaur, Arunashish Datta, Haozhe Zhou, **Xiaxin Shen**, Shreyas Sen, Byung Cheol Min, Richard M. Voyles. "PAAg: A Reference Architecture and Testbed for Closed-Loop Precision Animal Agriculture", *2022 ACM/IEEE International National Conference on Cyber-Physical Systems (ICCPS)* (Under Review)
+- \[C\] Upinder Kaur, Haozhe Zhou, **Xiaxin Shen**, Byung-Cheol Min, and Richard M. Voyles. "Robomal: Malware detection for robot network systems", *2021 IEEE International Conference on Robotic Computing (IRC)*. Full Paper, Taichung, Taiwan, November 15-17, 2021. (Accepted)
+- \[J\] David J. Richter, Lance Natonski, **Xiaxin Shen**, and Ricardo A. Calix. "Attitude control for fixed-wing aircraft using q-learning", *2021 Springer International Conference on Intelligent Human Computer Interaction (IHCI)*. Full Paper, Kent, OH, United States, December 20-22, 2021. (Accepted)
+- \[C\] Upinder Kaur, Arunashish Datta, Haozhe Zhou, **Xiaxin Shen**, Shreyas Sen, Byung Cheol Min, Richard M. Voyles. "PAAg: A Reference Architecture and Testbed for Closed-Loop Precision Animal Agriculture", *2022 ACM/IEEE International National Conference on Cyber-Physical Systems (ICCPS)*. Full Paper. (Under Review)
 - **Xiaxin Shen**, Yeji Gong, Haeun Ko, Taeuk Gwak, Jihyeon Noh, Minji Lee, and Eric T. Matson. UAV Ground Scanning System: Human Detection from Infrared Imagery with Deep Learning (In Preparation & Draft Available)
 
 
