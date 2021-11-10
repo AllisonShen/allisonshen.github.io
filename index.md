@@ -26,7 +26,7 @@ Major GPA: 4.0 / 4.0
 
 - [UAV Ground Scanning System: Human Detection from Infrared Imagery with Deep Learning](https://github.com/AllisonShen/UAV)
 	+ Created LIAEHU dataset comprising low-altitude infrared aerial images for human detection
-	+ Presented an UAV ground scanning system developed with an infrared camera mounted on the UAV to detected human both in the daytime and at night 
+	+ Presented an UAV ground scanning system developed with an infrared camera mounted on the UAV to detect human both in the daytime and at night 
 	+ Built a warning system for sending real-time notifications with GPS information if the result from the ground scanning system triggers the warning
 	+ Compared and analyzed the performance of several deep learning state-of-the-art models with the LIAEHU dataset including YOLOv3, YOLOv4, YOLOv5, YOLO X, MobileNetSSDv2, and EfficientDet with TensorFlow and Pytorch
 - [PAAg: Closed-Loop Precision Animal Agriculture](https://www.purdue.edu/rosehub/research.animalAg.RoSeHUB.html)
