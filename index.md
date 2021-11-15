@@ -45,6 +45,11 @@ Major GPA: 4.0 / 4.0
 	+ Applied algorithms Q-Learning to high dimensional, non-linear and complex tasks with a simulated aircraft Cessna 172 in JSBSim and X-Plane
 	+ Defined a Q-table with the size (states(168), actions(4)) by creating an encoding system by converting discrete action values to continuous values
 	+ Implemented sparse reward function and delta reward function which are trained separately and provides rewards respectively for certain states and all states
+- [Deleted File Persistence Tracking](https://github.com/AllisonShen/security_mft)
+	+ Recorded 7 sequential images from a single system over time which include operations of deleting files and other activities 
+	+ Created DFXML files to represent specific digital forensics artifacts which contain information on all file differences between the two images including deleted, new, and modified files 
+	+ Developed a tool to parse DFXML files with Python library lxml and saved results to CSV files
+	+ Analyzed the raw persistence data in terms of byte run, length, image offset, file offset, inode, and hashes
 
 - Flow Simulation for Airfoil Images with Autoencoder and CNN
 	+ Proposed a deep learning-based solution for flow simulation for airfoil images
@@ -76,11 +81,7 @@ Major GPA: 4.0 / 4.0
 	+ Implementing the function of personalizing favorites lists from the text the user read
 	+ Realizing the association of favorites lists with dates, and helping users review and memorize with flashcards based on the forgetting curve
 
-- [Deleted File Persistence Tracking](https://github.com/AllisonShen/security_mft)
-	+ Recorded 7 sequential images from a single system over time which include operations of deleting files and other activities 
-	+ Created DFXML files to represent specific digital forensics artifacts which contain information on all file differences between the two images including deleted, new, and modified files 
-	+ Developed a tool to parse DFXML files with Python library lxml and saved results to CSV files
-	+ Analyzed the raw persistence data in terms of byte run, length, image offset, file offset, inode, and hashes
+
 
 
 - [Twitter Scraper](https://github.com/AllisonShen/TwitterScraper)
