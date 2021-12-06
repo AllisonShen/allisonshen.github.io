@@ -28,7 +28,7 @@ Major GPA: 4.0 / 4.0
 	+ Created LIAEHU dataset comprising low-altitude infrared aerial images for human detection
 	+ Presented an UAV ground scanning system developed with an infrared camera mounted on the UAV to detect human both in the daytime and at night 
 	+ Built a warning system for sending real-time notifications with GPS information if the result from the ground scanning system triggers the warning
-	+ Compared and analyzed the performance of several deep learning state-of-the-art models with the LIAEHU dataset including YOLOv3, YOLOv4, YOLOv5, YOLO X, MobileNetSSDv2, and EfficientDet with TensorFlow and Pytorch
+	+ Compared and analyzed the performance of several deep learning state-of-the-art models with the LIAEHU dataset including YOLOv3, YOLOv4, YOLOv5, YOLO X, MobileNetSSDv2, and EfficientNet with TensorFlow and Pytorch
 - [PAAg: Closed-Loop Precision Animal Agriculture](https://www.purdue.edu/rosehub/research.animalAg.RoSeHUB.html)
 	+ Proposed a CPS reference architecture for closed-loop precision animal agriculture to deliver  individualized care to animals
 	+ Leveraged the uniqueness of animal agriculture in security mechanisms, communication (in-body to out-of-body), and real-time data-driven control
@@ -80,9 +80,6 @@ Major GPA: 4.0 / 4.0
 	+ Implementing the function of querying the meaning of words very conveniently by simple tapping in the read view
 	+ Implementing the function of personalizing favorites lists from the text the user read
 	+ Realizing the association of favorites lists with dates, and helping users review and memorize with flashcards based on the forgetting curve
-
-
-
 
 - [Twitter Scraper](https://github.com/AllisonShen/TwitterScraper)
 	+ Built a web scraping tool to obtain Twitter information by accessing and recording data from the Twitter website with Python library selenium
