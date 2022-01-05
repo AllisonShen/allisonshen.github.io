@@ -15,7 +15,7 @@ Major GPA: 4.0 / 4.0
 
 - **Xiaxin Shen**, Yeji Gong, Haeun Ko, Taeuk Gwak, Jihyeon Noh, Minji Lee, and Eric T. Matson. "UAV Ground Scanning System: Human Detection from Infrared Imagery with Deep Learning", Full Paper. (In Preparation & Draft Available)
 - \[C\] Upinder Kaur, Arunashish Datta, Haozhe Zhou, **Xiaxin Shen**, Shreyas Sen, Byung Cheol Min, Richard M. Voyles. "PAAg: A Reference Architecture and Testbed for Closed-Loop Precision Animal Agriculture", *2022 ACM/IEEE International National Conference on Cyber-Physical Systems (ICCPS)*. Full Paper. (Under Review)
-- \[C\] David J. Richter, Lance Natonski, **Xiaxin Shen**, and Ricardo A. Calix. "Attitude control for fixed-wing aircraft using q-learning", *2021 Springer International Conference on Intelligent Human Computer Interaction (IHCI)*. Full Paper, Kent, OH, United States, December 20-22, 2021. (Accepted)
+- \[C\] David J. Richter, Lance Natonski, **Xiaxin Shen**, and Ricardo A. Calix. "Attitude control for fixed-wing aircraft using q-learning", *2021 Springer International Conference on Intelligent Human Computer Interaction (IHCI)*. Full Paper, Kent, OH, United States, December 20-22, 2021. (Accepted) 
 - \[C\] Upinder Kaur, Haozhe Zhou, **Xiaxin Shen**, Byung-Cheol Min, and Richard M. Voyles. "Robomal: Malware detection for robot network systems", *2021 IEEE International Conference on Robotic Computing (IRC)*. Full Paper, Taichung, Taiwan, November 15-17, 2021. (Accepted)
 
 
@@ -58,6 +58,7 @@ Major GPA: 4.0 / 4.0
 	+ Implemented multiple CNN structures and trained models for getting a competitive prediction accuracy for Airfoil pressure and velocity with Python, TensorFlow, Google Colab, and Purdue's Scholar and Gilbreth computing resources
 
 ### Awards
+- [World-wide: Best Session Paper Award in 2021 Springer IHCI (Session Name: Machine Learning for HCI)](https://www.ihci.cs.kent.edu/index.php/awards/)
 - [World-wide: 3rd place in the SAE (Society of Automotive Engineers) Mobility Forward Challenge: AI Mini-Challenge Competition - 2021](https://www.sae.org/attend/student-events/mobilityforward-challenge/teams)
 	+ Proposed a promising solution to estimate COVID-19 infection risk level between transportations: Bus and rideshare
 		* SMATRA : A Smart Transportation Selection System to Avoid COVID-19 
