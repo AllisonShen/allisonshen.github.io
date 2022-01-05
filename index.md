@@ -58,7 +58,9 @@ Major GPA: 4.0 / 4.0
 	+ Implemented multiple CNN structures and trained models for getting a competitive prediction accuracy for Airfoil pressure and velocity with Python, TensorFlow, Google Colab, and Purdue's Scholar and Gilbreth computing resources
 
 ### Awards
-- [World-wide: Best Session Paper Award in 2021 Springer IHCI (Session Name: Machine Learning for HCI)](https://www.ihci.cs.kent.edu/index.php/awards/)
+- [World-wide: Best Session Paper Award in 2021 Springer IHCI](https://www.ihci.cs.kent.edu/index.php/awards/)
+	+ Session Name: Machine Learning for HCI
+	+ Paper Title: Attitude Control for Fixed-Wing Aircraft using Q-Learning
 - [World-wide: 3rd place in the SAE (Society of Automotive Engineers) Mobility Forward Challenge: AI Mini-Challenge Competition - 2021](https://www.sae.org/attend/student-events/mobilityforward-challenge/teams)
 	+ Proposed a promising solution to estimate COVID-19 infection risk level between transportations: Bus and rideshare
 		* SMATRA : A Smart Transportation Selection System to Avoid COVID-19 
