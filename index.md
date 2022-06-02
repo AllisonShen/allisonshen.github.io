@@ -3,20 +3,20 @@
 ---
 
 ### Education
-[B.S. Computer Information Technology](https://polytechnic.purdue.edu/degrees/computer-and-information-technology), [Purdue University](https://www.purdue.edu/) (May 2022)
+[Ph.D. in Electrical and Computer Engineering](https://ece.princeton.edu/), [Princeton University](https://www.princeton.edu/)(Expected:2027)
 
-Overall GPA: 3.98 / 4.0
+[B.S. in Computer Information Technology](https://polytechnic.purdue.edu/degrees/computer-and-information-technology), [Purdue University](https://www.purdue.edu/) (May 2022)
 
-Major GPA: 4.0 / 4.0
+Graduated with highest distinction (GPA: 3.96 / 4.0)
 
 ### Publications
 
 \[C\]: Conference, \[J\]: Journal
 
 - **Xiaxin Shen**, Yeji Gong, Haeun Ko, Taeuk Gwak, Jihyeon Noh, Minji Lee, and Eric T. Matson. "UAV Ground Scanning System: Human Detection from Infrared Imagery with Deep Learning", Full Paper. (In Preparation & Draft Available)
-- \[C\] Upinder Kaur, Arunashish Datta, Haozhe Zhou, **Xiaxin Shen**, Shreyas Sen, Byung Cheol Min, Richard M. Voyles. "PAAg: A Reference Architecture and Testbed for Closed-Loop Precision Animal Agriculture", *2022 ACM/IEEE International National Conference on Cyber-Physical Systems (ICCPS)*. Full Paper. (Under Review)
-- \[C\] David J. Richter, Lance Natonski, **Xiaxin Shen**, and Ricardo A. Calix. "Attitude control for fixed-wing aircraft using q-learning", *2021 Springer International Conference on Intelligent Human Computer Interaction (IHCI)*. Full Paper, Kent, OH, United States, December 20-22, 2021. (Accepted) 
-- \[C\] Upinder Kaur, Haozhe Zhou, **Xiaxin Shen**, Byung-Cheol Min, and Richard M. Voyles. "Robomal: Malware detection for robot network systems", *2021 IEEE International Conference on Robotic Computing (IRC)*. Full Paper, Taichung, Taiwan, November 15-17, 2021. (Accepted) \[[arXiv](https://arxiv.org/abs/2201.08470)\]
+- \[C\] **Xiaxin Shen**, Corbin Newhard, Miad Faezipour, and Smriti Bhatt. "Smart Monitoring and Detection of ECG and Breathing Sound Signals With Deep Learning", *2022 IEEE International Conference on Engineering in Medicine and Biology Society (EMBC)*. Ioannina, Greece, September 27-30, 2022. (Accepted) 
+- \[C\] David J. Richter, Lance Natonski, **Xiaxin Shen**, and Ricardo A. Calix. "Attitude control for fixed-wing aircraft using q-learning", *2021 Springer International Conference on Intelligent Human Computer Interaction (IHCI)*. Kent, OH, United States, December 20-22, 2021. (Accepted) 
+- \[C\] Upinder Kaur, Haozhe Zhou, **Xiaxin Shen**, Byung-Cheol Min, and Richard M. Voyles. "Robomal: Malware detection for robot network systems", *2021 IEEE International Conference on Robotic Computing (IRC)*. Taichung, Taiwan, November 15-17, 2021. (Accepted) \[[arXiv](https://arxiv.org/abs/2201.08470)\]
 
 
 
