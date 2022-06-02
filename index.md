@@ -3,7 +3,7 @@
 ---
 
 ### Education
-[Ph.D. in Electrical and Computer Engineering](https://ece.princeton.edu/), [Princeton University](https://www.princeton.edu/)(Expected:2027)
+[Ph.D. in Electrical and Computer Engineering](https://ece.princeton.edu/), [Princeton University](https://www.princeton.edu/) (Expected:2027)
 
 [B.S. in Computer Information Technology](https://polytechnic.purdue.edu/degrees/computer-and-information-technology), [Purdue University](https://www.purdue.edu/) (May 2022)
 
