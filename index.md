@@ -120,7 +120,7 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 
 - **Science:** Calculus, Linear Algebra, Engineering Mathematics (Probability Theory and Mathematical Statistics), Discrete Mathematics, Physics -->
 
----
+<!-- --- -->
 
 <!-- ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
