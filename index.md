@@ -13,7 +13,7 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 
 \[C\]: Conference, \[J\]: Journal
 
-- **Xiaxin Shen**, Yeji Gong, Haeun Ko, Taeuk Gwak, Jihyeon Noh, Minji Lee, and Eric T. Matson. "UAV Ground Scanning System: Human Detection from Infrared Imagery with Deep Learning". (In Preparation & Draft Available)
+<!-- - **Xiaxin Shen**, Yeji Gong, Haeun Ko, Taeuk Gwak, Jihyeon Noh, Minji Lee, and Eric T. Matson. "UAV Ground Scanning System: Human Detection from Infrared Imagery with Deep Learning". (In Preparation & Draft Available) -->
 - \[C\] **Xiaxin Shen**, Corbin Newhard, Miad Faezipour, and Smriti Bhatt. "Smart Monitoring and Detection of ECG and Breathing Sound Signals With Deep Learning", *2022 IEEE International Conference on Engineering in Medicine and Biology Society (EMBC)*. Ioannina, Greece, September 27-30, 2022. (Accepted) 
 - \[C\] David J. Richter, Lance Natonski, **Xiaxin Shen**, and Ricardo A. Calix. "Attitude control for fixed-wing aircraft using q-learning", *2021 Springer International Conference on Intelligent Human Computer Interaction (IHCI)*. Kent, OH, United States, December 20-22, 2021. (Accepted) 
 - \[C\] Upinder Kaur, Haozhe Zhou, **Xiaxin Shen**, Byung-Cheol Min, and Richard M. Voyles. "Robomal: Malware detection for robot network systems", *2021 IEEE International Conference on Robotic Computing (IRC)*. Taichung, Taiwan, November 15-17, 2021. (Accepted) \[[arXiv](https://arxiv.org/abs/2201.08470)\]
@@ -21,7 +21,7 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 
 
 
-
+<!-- 
 ### Research Experience
 
 - [UAV Ground Scanning System: Human Detection from Infrared Imagery with Deep Learning](https://github.com/AllisonShen/UAV)
@@ -55,7 +55,7 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 	+ Proposed a deep learning-based solution for flow simulation for airfoil images
 	+ Cleaned data with Python for geometry images, data of pressure, velocity, coordinates of X and Y and constructed CSV files with those data
 	+ Built multiple autoencoder models with geometry images and extracted features with different settings of neurons
-	+ Implemented multiple CNN structures and trained models for getting a competitive prediction accuracy for Airfoil pressure and velocity with Python, TensorFlow, Google Colab, and Purdue's Scholar and Gilbreth computing resources
+	+ Implemented multiple CNN structures and trained models for getting a competitive prediction accuracy for Airfoil pressure and velocity with Python, TensorFlow, Google Colab, and Purdue's Scholar and Gilbreth computing resources -->
 
 ### Awards
 - [World-wide: Best Session Paper Award in 2021 Springer IHCI](https://www.ihci.cs.kent.edu/index.php/awards/)
@@ -75,7 +75,7 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 <img src="images/awards.png?raw=true"/>
 
 
-### Projects
+<!-- ### Projects
 
 
 - [RLEAM Reader: Read, Learn, and Memorize (Android Development)](https://github.com/AllisonShen/RLEAM-Reader)
@@ -98,9 +98,9 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 - E-Commerce Website 
 	+ Collaborated with 6 students to design and implemented front-end and back-end of the e-commerce website using HTML, JavaScript, CSS, PHP, MySQL
 	+ Utilized distributed application architecture and deployed the database at the Oracle server 
-	+ Identified user requirements, drew ER, EER diagram, and created relational schema to build the database
+	+ Identified user requirements, drew ER, EER diagram, and created relational schema to build the database -->
 
-### Course Experience
+<!-- ### Course Experience
 
 - **Programming Languages:** Data Structure, Design Analysis Algorithms, Python Scripting For Security, Programming Using C, Programming With Java, Object Oriented Programming (C++), Database Model &Implementation (MySQL), Applied Database Technology, Distributed Appllication Development (PHP), Distributed Appllication Archetecture & Design, Web Technology & Xml Technology (C#), Software Development for Mobile Computers (Android)
 
@@ -118,7 +118,7 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 
 - **English:** English Composition II, Business Writing, Scientific Writing & Presentation
 
-- **Science:** Calculus, Linear Algebra, Engineering Mathematics (Probability Theory and Mathematical Statistics), Discrete Mathematics, Physics
+- **Science:** Calculus, Linear Algebra, Engineering Mathematics (Probability Theory and Mathematical Statistics), Discrete Mathematics, Physics -->
 
 ---
 
