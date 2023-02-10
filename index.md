@@ -20,8 +20,6 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 
 
 
-
-<!-- 
 ### Research Experience
 
 - [UAV Ground Scanning System: Human Detection from Infrared Imagery with Deep Learning](https://github.com/AllisonShen/UAV)
@@ -55,9 +53,11 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 	+ Proposed a deep learning-based solution for flow simulation for airfoil images
 	+ Cleaned data with Python for geometry images, data of pressure, velocity, coordinates of X and Y and constructed CSV files with those data
 	+ Built multiple autoencoder models with geometry images and extracted features with different settings of neurons
-	+ Implemented multiple CNN structures and trained models for getting a competitive prediction accuracy for Airfoil pressure and velocity with Python, TensorFlow, Google Colab, and Purdue's Scholar and Gilbreth computing resources -->
+	+ Implemented multiple CNN structures and trained models for getting a competitive prediction accuracy for Airfoil pressure and velocity with Python, TensorFlow, Google Colab, and Purdue's Scholar and Gilbreth computing resources
 
 ### Awards
+- [Gordon Y.S. Wu Fellowship in Engineering - 2022](https://gradschool.princeton.edu/financial-support/fellowships/princeton-fellowships/gordon-wu-fellowship#:~:text=The%20award%20provides%20full%20fellowship,of%20study%2C%20one%20through%20five)
+
 - [World-wide: Best Session Paper Award in 2021 Springer IHCI](https://www.ihci.cs.kent.edu/index.php/awards/)
 	+ Session Name: Machine Learning for HCI
 	+ Paper Title: Attitude Control for Fixed-Wing Aircraft using Q-Learning
@@ -75,7 +75,7 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 <img src="images/awards.png?raw=true"/>
 
 
-<!-- ### Projects
+### Projects
 
 
 - [RLEAM Reader: Read, Learn, and Memorize (Android Development)](https://github.com/AllisonShen/RLEAM-Reader)
@@ -95,12 +95,12 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 	+ Utilized WebAR technology for showing network status, device information and GPS location with the browser of the mobile phone when scanning images through the phone's camera
 	+ Applied three.js, jsartookit, and ar.js to the application and utilized jQuery for the ease use of JavasSript
 
-- E-Commerce Website 
+<!-- - E-Commerce Website 
 	+ Collaborated with 6 students to design and implemented front-end and back-end of the e-commerce website using HTML, JavaScript, CSS, PHP, MySQL
 	+ Utilized distributed application architecture and deployed the database at the Oracle server 
 	+ Identified user requirements, drew ER, EER diagram, and created relational schema to build the database -->
 
-<!-- ### Course Experience
+### Course Experience
 
 - **Programming Languages:** Data Structure, Design Analysis Algorithms, Python Scripting For Security, Programming Using C, Programming With Java, Object Oriented Programming (C++), Database Model &Implementation (MySQL), Applied Database Technology, Distributed Appllication Development (PHP), Distributed Appllication Archetecture & Design, Web Technology & Xml Technology (C#), Software Development for Mobile Computers (Android)
 
@@ -118,7 +118,7 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 
 - **English:** English Composition II, Business Writing, Scientific Writing & Presentation
 
-- **Science:** Calculus, Linear Algebra, Engineering Mathematics (Probability Theory and Mathematical Statistics), Discrete Mathematics, Physics -->
+- **Science:** Calculus, Linear Algebra, Probability Theory and Mathematical Statistics, Discrete Mathematics, Physics
 
 <!-- --- -->
 
