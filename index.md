@@ -46,18 +46,9 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 	+ Applied algorithms Q-Learning to high dimensional, non-linear and complex tasks with a simulated aircraft Cessna 172 in JSBSim and X-Plane
 	+ Defined a Q-table with the size (states(168), actions(4)) by creating an encoding system by converting discrete action values to continuous values
 	+ Implemented sparse reward function and delta reward function which are trained separately and provides rewards respectively for certain states and all states
-<!-- - [Deleted File Persistence Tracking](https://github.com/AllisonShen/security_mft)
-	+ Recorded 7 sequential images from a single system over time which include operations of deleting files and other activities 
-	+ Created DFXML files to represent specific digital forensics artifacts which contain information on all file differences between the two images including deleted, new, and modified files 
-	+ Developed a tool to parse DFXML files with Python library lxml and saved results to CSV files
-	+ Analyzed the raw persistence data in terms of byte run, length, image offset, file offset, inode, and hashes -->
 
-<!-- - Flow Simulation for Airfoil Images with Autoencoder and CNN
-	+ Proposed a deep learning-based solution for flow simulation for airfoil images
-	+ Cleaned data with Python for geometry images, data of pressure, velocity, coordinates of X and Y and constructed CSV files with those data
-	+ Built multiple autoencoder models with geometry images and extracted features with different settings of neurons
-	+ Implemented multiple CNN structures and trained models for getting a competitive prediction accuracy for Airfoil pressure and velocity with Python, TensorFlow, Google Colab, and Purdue's Scholar and Gilbreth computing resources -->
-
+### Assistant in Instruction (AI) Experience
+- ECE 115  Introduction to Computing: Programming Autonomous Vehicles (2023 Fall)
 ### Awards
 - [Gordon Y.S. Wu Fellowship in Engineering - 2022](https://gradschool.princeton.edu/financial-support/fellowships/princeton-fellowships/gordon-wu-fellowship#:~:text=The%20award%20provides%20full%20fellowship,of%20study%2C%20one%20through%20five)
 
@@ -78,7 +69,7 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 <img src="images/awards.png?raw=true"/>
 
 
-### Projects
+<!-- ### Projects -->
 
 
 <!-- - [RLEAM Reader: Read, Learn, and Memorize (Android Development)](https://github.com/AllisonShen/RLEAM-Reader)
