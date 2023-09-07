@@ -49,6 +49,7 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 
 ### Assistant in Instruction (AI) Experience
 - ECE 115  Introduction to Computing: Programming Autonomous Vehicles (2023 Fall)
+
 ### Awards
 - [Gordon Y.S. Wu Fellowship in Engineering - 2022](https://gradschool.princeton.edu/financial-support/fellowships/princeton-fellowships/gordon-wu-fellowship#:~:text=The%20award%20provides%20full%20fellowship,of%20study%2C%20one%20through%20five)
 
