@@ -63,10 +63,8 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 - [Award for Best Visualization in Purdue's 7th Annual ASA DataFest Competition - 2021](https://datamine.purdue.edu/datafest.html)
 	<!-- + Proposed an analysis for illicit drugs in US and provided suggestions for reducing drug abuse -->
 
-- Top 40 and Finalist in the Illinois Technology Association (ITA) Tech Challenge Programming Competition - 2019
-	<!-- + Top 40 in the first challenge of solving algorithms problems at HackerRank
-	+ In the final challenge, proposed a framework called *Upstander* for solving the social impact problem of public and private cyberbullying with the method of CNN and RNN -->
-
+- Finalist in the Illinois Technology Association (ITA) Tech Challenge Programming Competition - 2019
+<!-- Top 40 and  -->
 <img src="images/awards.png?raw=true"/>
 
 
