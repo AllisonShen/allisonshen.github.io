@@ -57,15 +57,15 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 	+ Session Name: Machine Learning for HCI
 	+ Paper Title: Attitude Control for Fixed-Wing Aircraft using Q-Learning
 - [3rd place in the SAE (Society of Automotive Engineers) Mobility Forward Challenge: AI Mini-Challenge Competition - 2021](https://www.sae.org/attend/student-events/mobilityforward-challenge/teams)
-	+ Proposed a promising solution to estimate COVID-19 infection risk level between transportations: Bus and rideshare
-		* SMATRA : A Smart Transportation Selection System to Avoid COVID-19 
+	<!-- + Proposed a promising solution to estimate COVID-19 infection risk level between transportations: Bus and rideshare
+		* SMATRA : A Smart Transportation Selection System to Avoid COVID-19  -->
 
 - [Award for Best Visualization in Purdue's 7th Annual ASA DataFest Competition - 2021](https://datamine.purdue.edu/datafest.html)
-	+ Proposed an analysis for illicit drugs in US and provided suggestions for reducing drug abuse
+	<!-- + Proposed an analysis for illicit drugs in US and provided suggestions for reducing drug abuse -->
 
 - Top 40 and Finalist in the Illinois Technology Association (ITA) Tech Challenge Programming Competition - 2019
-	+ Top 40 in the first challenge of solving algorithms problems at HackerRank
-	+ In the final challenge, proposed a framework called *Upstander* for solving the social impact problem of public and private cyberbullying with the method of CNN and RNN
+	<!-- + Top 40 in the first challenge of solving algorithms problems at HackerRank
+	+ In the final challenge, proposed a framework called *Upstander* for solving the social impact problem of public and private cyberbullying with the method of CNN and RNN -->
 
 <img src="images/awards.png?raw=true"/>
 
