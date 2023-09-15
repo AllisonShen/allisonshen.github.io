@@ -1,6 +1,6 @@
-## Home
+## About Me
 
----
+I am a Ph.D. student in the Department of Electrical and Computer Engineering at Princeton University, and I am very fortunate to be advised by [Prof. Sun-Yuan Kung](https://scholar.google.com/citations?hl=en&user=EVK03j8AAAAJ&view_op=list_works&sortby=pubdate). Additionally, I have been awarded the Gordon Wu Fellowship from Princeton University.  
 
 ### Education
 [Ph.D. in Electrical and Computer Engineering](https://ece.princeton.edu/), [Princeton University](https://www.princeton.edu/) (Expected: 2027)
@@ -17,12 +17,12 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 
 <!-- - \[C\] **Xiaxin Shen**, Corbin Newhard, Miad Faezipour, and Smriti Bhatt. "Smart Monitoring and Detection of ECG and Breathing Sound Signals With Deep Learning", *2022 IEEE International Conference on Engineering in Medicine and Biology Society (EMBC)*. Glasgow, United Kingdom, July 11-15, 2022. (Accepted)  -->
 
-- \[C\] David J. Richter, Lance Natonski, **Xiaxin Shen**, and Ricardo A. Calix. "Attitude control for fixed-wing aircraft using q-learning", *2021 Springer International Conference on Intelligent Human Computer Interaction (IHCI)*. Kent, OH, United States, December 20-22, 2021. (Accepted) 
-- \[C\] Upinder Kaur, Haozhe Zhou, **Xiaxin Shen**, Byung-Cheol Min, and Richard M. Voyles. "Robomal: Malware detection for robot network systems", *2021 IEEE International Conference on Robotic Computing (IRC)*. Taichung, Taiwan, November 15-17, 2021. (Accepted) \[[arXiv](https://arxiv.org/abs/2201.08470)\]
+- \[C\] David J. Richter, Lance Natonski, **Xiaxin Shen**, and Ricardo A. Calix. "Attitude control for fixed-wing aircraft using q-learning", *2021 Springer International Conference on Intelligent Human Computer Interaction (IHCI)*. Kent, OH, United States, December 20-22, 2021.  
+- \[C\] Upinder Kaur, Haozhe Zhou, **Xiaxin Shen**, Byung-Cheol Min, and Richard M. Voyles. "Robomal: Malware detection for robot network systems", *2021 IEEE International Conference on Robotic Computing (IRC)*. Taichung, Taiwan, November 15-17, 2021. 
 
 
 
-### Research Experience
+<!-- ### Research Experience -->
 
 <!-- - [UAV Ground Scanning System: Human Detection from Infrared Imagery with Deep Learning](https://github.com/AllisonShen/UAV)
 	+ Created LIAEHU dataset comprising low-altitude infrared aerial images for human detection
@@ -36,7 +36,7 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 	+ Augmented low-cost hardware for high-performance in deployment, testing, and validation 
 	+ Built long range (LoRa) communication between the smart collar node and the sensor edge node (inset) with the animal body tissues as the medium for data transmission
 	+ Implemented cloud storage and computing by utilizing ThingsBoard to build the dashboard to show sensor value plots temperature, gas, relative humidity, and pressure, based on MQTT protocol -->
-- [Malware Detection for Robot Network Systems](https://purr.purdue.edu/publications/3860/1) 
+<!-- - [Malware Detection for Robot Network Systems](https://purr.purdue.edu/publications/3860/1) 
 	+ Developed the RoboMal dataset using the controller files of the publicly available autonomous car with Gazebo-based simulation for both robotic systems and simpler embedded actuator-based Cyber Physical Systems (CPS) 
 	+ Created [RoboMal dataset](https://purr.purdue.edu/publications/3860/1) including a total of 450 binary executable and linkable format (ELF) files with 232 malware files and 218 good software files by modifying gains and scalars and manipulating the proportional–derivative (PD) control structure
 	+ Built a bidirectional Long Short-Term Memory (LSTM) based model with embedding for identifying the maliciousness of the code with an accuracy of 85% and precision of 87% which outperforms than other methods like CNN, GRU, and ANN
@@ -45,7 +45,7 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 	+ Proposed a promising automated stabilization model for airplane flight based on Reinforcement Learning (RL) 
 	+ Applied algorithms Q-Learning to high dimensional, non-linear and complex tasks with a simulated aircraft Cessna 172 in JSBSim and X-Plane
 	+ Defined a Q-table with the size (states(168), actions(4)) by creating an encoding system by converting discrete action values to continuous values
-	+ Implemented sparse reward function and delta reward function which are trained separately and provides rewards respectively for certain states and all states
+	+ Implemented sparse reward function and delta reward function which are trained separately and provides rewards respectively for certain states and all states -->
 
 ### Assistant in Instruction (AI) Experience
 - ECE 115  Introduction to Computing: Programming Autonomous Vehicles (2023 Fall)
@@ -53,17 +53,17 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 ### Awards
 - [Gordon Y.S. Wu Fellowship in Engineering - 2022](https://gradschool.princeton.edu/financial-support/fellowships/princeton-fellowships/gordon-wu-fellowship#:~:text=The%20award%20provides%20full%20fellowship,of%20study%2C%20one%20through%20five)
 
-- [World-wide: Best Session Paper Award in 2021 Springer IHCI](https://www.ihci.cs.kent.edu/index.php/awards/)
+- [Best Session Paper Award in 2021 Springer IHCI](https://www.ihci.cs.kent.edu/index.php/awards/)
 	+ Session Name: Machine Learning for HCI
 	+ Paper Title: Attitude Control for Fixed-Wing Aircraft using Q-Learning
-- [World-wide: 3rd place in the SAE (Society of Automotive Engineers) Mobility Forward Challenge: AI Mini-Challenge Competition - 2021](https://www.sae.org/attend/student-events/mobilityforward-challenge/teams)
+- [3rd place in the SAE (Society of Automotive Engineers) Mobility Forward Challenge: AI Mini-Challenge Competition - 2021](https://www.sae.org/attend/student-events/mobilityforward-challenge/teams)
 	+ Proposed a promising solution to estimate COVID-19 infection risk level between transportations: Bus and rideshare
 		* SMATRA : A Smart Transportation Selection System to Avoid COVID-19 
 
-- [University-wide: Award for Best Visualization in Purdue's 7th Annual ASA DataFest Competition - 2021](https://datamine.purdue.edu/datafest.html)
+- [Award for Best Visualization in Purdue's 7th Annual ASA DataFest Competition - 2021](https://datamine.purdue.edu/datafest.html)
 	+ Proposed an analysis for illicit drugs in US and provided suggestions for reducing drug abuse
 
-- National-wide: Top 40 and Finalist in the Illinois Technology Association (ITA) Tech Challenge Programming Competition - 2019
+- Top 40 and Finalist in the Illinois Technology Association (ITA) Tech Challenge Programming Competition - 2019
 	+ Top 40 in the first challenge of solving algorithms problems at HackerRank
 	+ In the final challenge, proposed a framework called *Upstander* for solving the social impact problem of public and private cyberbullying with the method of CNN and RNN
 
@@ -95,7 +95,7 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 	+ Utilized distributed application architecture and deployed the database at the Oracle server 
 	+ Identified user requirements, drew ER, EER diagram, and created relational schema to build the database -->
 
-### Course Experience
+<!-- ### Course Experience
 
 - **Programming Languages:** Data Structure, Design Analysis Algorithms, Python Scripting For Security, Programming Using C, Programming With Java, Object Oriented Programming (C++), Database Model &Implementation (MySQL), Applied Database Technology, Distributed Appllication Development (PHP), Distributed Appllication Archetecture & Design, Web Technology & Xml Technology (C#), Software Development for Mobile Computers (Android)
 
@@ -113,7 +113,7 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 
 - **English:** English Composition II, Business Writing, Scientific Writing & Presentation
 
-- **Science:** Calculus, Linear Algebra, Probability Theory and Mathematical Statistics, Discrete Mathematics, Physics
+- **Science:** Calculus, Linear Algebra, Probability Theory and Mathematical Statistics, Discrete Mathematics, Physics -->
 
 <!-- --- -->
 
