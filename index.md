@@ -48,7 +48,8 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 	+ Implemented sparse reward function and delta reward function which are trained separately and provides rewards respectively for certain states and all states -->
 
 ### Assistant in Instruction (AI) Experience
-- ECE 115  Introduction to Computing: Programming Autonomous Vehicles (2023 Fall)
+- ECE 115  Introduction to Computing: Programming Autonomous Vehicles (Fall 2023)
+- EGR 154  Foundations of Engineering: Linear Systems (Spring 2024)
 
 ### Awards
 - [Gordon Y.S. Wu Fellowship in Engineering - 2022](https://gradschool.princeton.edu/financial-support/fellowships/princeton-fellowships/gordon-wu-fellowship#:~:text=The%20award%20provides%20full%20fellowship,of%20study%2C%20one%20through%20five)
