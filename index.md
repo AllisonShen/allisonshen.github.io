@@ -1,11 +1,11 @@
 ## About Me
 
-I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at Princeton University, and I am very fortunate to be advised by [Prof. Sun-Yuan Kung](https://scholar.google.com/citations?hl=en&user=EVK03j8AAAAJ&view_op=list_works&sortby=pubdate). Additionally, I have been awarded the Gordon Wu Fellowship from Princeton University.  
+I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at Princeton University, and I am very fortunate to be advised by [Prof. Sun-Yuan Kung](https://scholar.google.com/citations?hl=en&user=EVK03j8AAAAJ&view_op=list_works&sortby=pubdate). My research focuses on machine learning. Additionally, I have been awarded the [Gordon Wu Fellowship](https://gradschool.princeton.edu/financial-support/fellowships/princeton-fellowships/gordon-wu-fellowship) from Princeton University.  
 
 ### Education
 [Ph.D. in Electrical and Computer Engineering](https://ece.princeton.edu/), [Princeton University](https://www.princeton.edu/) (Expected: 2027)
-
-[B.S. in Computer Information Technology](https://polytechnic.purdue.edu/degrees/computer-and-information-technology), [Purdue University](https://www.purdue.edu/) (May 2022)
+[M.A. in Electrical and Computer Engineering](https://ece.princeton.edu/), [Princeton University](https://www.princeton.edu/)(2024)
+[B.S. in Computer Information Technology](https://polytechnic.purdue.edu/degrees/computer-and-information-technology), [Purdue University](https://www.purdue.edu/) (2022)
 
 Graduated with highest distinction (GPA: 3.96 / 4.0)
 
