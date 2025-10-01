@@ -4,7 +4,9 @@ I am a Ph.D. candidate in the Department of Electrical and Computer Engineering 
 
 ### Education
 [Ph.D. in Electrical and Computer Engineering](https://ece.princeton.edu/), [Princeton University](https://www.princeton.edu/) (Expected: 2027)
+
 [M.A. in Electrical and Computer Engineering](https://ece.princeton.edu/), [Princeton University](https://www.princeton.edu/)(2024)
+
 [B.S. in Computer Information Technology](https://polytechnic.purdue.edu/degrees/computer-and-information-technology), [Purdue University](https://www.purdue.edu/) (2022)
 
 Graduated with highest distinction (GPA: 3.96 / 4.0)
