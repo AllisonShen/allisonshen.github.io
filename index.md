@@ -56,10 +56,10 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 ### Awards
 - [Gordon Y.S. Wu Fellowship in Engineering - 2022](https://gradschool.princeton.edu/financial-support/fellowships/princeton-fellowships/gordon-wu-fellowship#:~:text=The%20award%20provides%20full%20fellowship,of%20study%2C%20one%20through%20five)
 <!-- https://www.ihci.cs.kent.edu/index.php/awards/ -->
-- [Best Session Paper Award in 2021 Springer IHCI]
+- Best Session Paper Award in 2021 Springer IHCI
 	+ Session Name: Machine Learning for HCI
 	+ Paper Title: Attitude Control for Fixed-Wing Aircraft using Q-Learning
-- [3rd place in the SAE (Society of Automotive Engineers) Mobility Forward Challenge: AI Mini-Challenge Competition - 2021]
+- 3rd place in the SAE (Society of Automotive Engineers) Mobility Forward Challenge: AI Mini-Challenge Competition - 2021
 	<!-- + Proposed a promising solution to estimate COVID-19 infection risk level between transportations: Bus and rideshare
 		* SMATRA : A Smart Transportation Selection System to Avoid COVID-19  -->
 
