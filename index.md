@@ -1,9 +1,9 @@
 ## About Me
 
-I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at Princeton University, and I am very fortunate to be advised by [Prof. Sun-Yuan Kung](https://scholar.google.com/citations?hl=en&user=EVK03j8AAAAJ&view_op=list_works&sortby=pubdate). My research focuses on machine learning, particularly in model compression and efficient fine-tuning of large language models. Additionally, I have been awarded the [Gordon Wu Fellowship](https://gradschool.princeton.edu/financial-support/fellowships/princeton-fellowships/gordon-wu-fellowship) from Princeton University.  
+I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at Princeton University (currently on leave), and I am very fortunate to be advised by [Prof. Sun-Yuan Kung](https://scholar.google.com/citations?hl=en&user=EVK03j8AAAAJ&view_op=list_works&sortby=pubdate). I am also the founder of [Elfen AI](https://elfen.ai/), where we build secure agentic infrastructure and automation systems for manufacturing, legacy supply chains, and defense. My research focuses on machine learning, particularly in model compression and efficient fine-tuning of large language models. Additionally, I have been awarded the [Gordon Wu Fellowship](https://gradschool.princeton.edu/financial-support/fellowships/princeton-fellowships/gordon-wu-fellowship) from Princeton University.  
 
 ### Education
-[Ph.D. in Electrical and Computer Engineering](https://ece.princeton.edu/), [Princeton University](https://www.princeton.edu/) (Expected: 2027)
+[Ph.D. Candidate in Electrical and Computer Engineering](https://ece.princeton.edu/), [Princeton University](https://www.princeton.edu/) (On leave)
 
 [M.A. in Electrical and Computer Engineering](https://ece.princeton.edu/), [Princeton University](https://www.princeton.edu/) (2024)
 
@@ -51,7 +51,7 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 
 ### Assistant in Instruction (AI) Experience
 - ECE 115  Introduction to Computing: Programming Autonomous Vehicles
-- EGR 154  Foundations of Engineering: Linear Systems
+- EGR 154  Foundations of Engineering: Linear Systems （Head TA）
 
 ### Awards
 - [Gordon Y.S. Wu Fellowship in Engineering - 2022](https://gradschool.princeton.edu/financial-support/fellowships/princeton-fellowships/gordon-wu-fellowship#:~:text=The%20award%20provides%20full%20fellowship,of%20study%2C%20one%20through%20five)
