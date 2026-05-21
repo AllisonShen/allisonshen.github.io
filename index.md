@@ -68,8 +68,8 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 
 - Finalist in the Illinois Technology Association (ITA) Tech Challenge Programming Competition - 2019
 <!-- Top 40 and  -->
-<img src="images/awards.png?raw=true"/>
-
+<!-- <img src="images/awards.png?raw=true"/> -->
+<img src="images/awards.png?raw=true" style="max-height: 160px; width: auto; display: block; margin-top: 15px;"/>
 
 <!-- ### Projects -->
 
