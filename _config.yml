@@ -4,8 +4,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://ece.princeton.edu/"> PhD candidate in ECE</a> at <a href="https://www.princeton.edu/">Princeton University</a> 
   <br><br>
   xiaxin.shen@princeton.edu
-  <br><br>
-  <a href="pdf/XiaxinShen_CV.pdf">View My CV</a>  
+  # <br><br>
+  # <a href="pdf/XiaxinShen_CV.pdf">View My CV</a>  
   <br><br>
   <a href="https://www.linkedin.com/in/xiaxin-s-831153194/">View My LinkedIn Profile</a>
 

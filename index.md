@@ -13,14 +13,14 @@ Graduated with highest distinction (GPA: 3.96 / 4.0)
 
 ### Publications
 
-\[C\]: Conference, \[J\]: Journal
+<!-- \[C\]: Conference, \[J\]: Journal -->
 
 <!-- - **Xiaxin Shen**, Yeji Gong, Haeun Ko, Taeuk Gwak, Jihyeon Noh, Minji Lee, and Eric T. Matson. "UAV Ground Scanning System: Human Detection from Infrared Imagery with Deep Learning". (In Preparation & Draft Available) -->
 
 <!-- - \[C\] **Xiaxin Shen**, Corbin Newhard, Miad Faezipour, and Smriti Bhatt. "Smart Monitoring and Detection of ECG and Breathing Sound Signals With Deep Learning", *2022 IEEE International Conference on Engineering in Medicine and Biology Society (EMBC)*. Glasgow, United Kingdom, July 11-15, 2022. (Accepted)  -->
 
-- \[C\] David J. Richter, Lance Natonski, **Xiaxin Shen**, and Ricardo A. Calix. "Attitude control for fixed-wing aircraft using q-learning", *2021 Springer International Conference on Intelligent Human Computer Interaction (IHCI)*. Kent, OH, United States, December 20-22, 2021.  
-- \[C\] Upinder Kaur, Haozhe Zhou, **Xiaxin Shen**, Byung-Cheol Min, and Richard M. Voyles. "Robomal: Malware detection for robot network systems", *2021 IEEE International Conference on Robotic Computing (IRC)*. Taichung, Taiwan, November 15-17, 2021. 
+- David J. Richter, Lance Natonski, **Xiaxin Shen**, and Ricardo A. Calix. "Attitude control for fixed-wing aircraft using q-learning", *2021 Springer International Conference on Intelligent Human Computer Interaction (IHCI)*. Kent, OH, United States, December 20-22, 2021.  
+- Upinder Kaur, Haozhe Zhou, **Xiaxin Shen**, Byung-Cheol Min, and Richard M. Voyles. "Robomal: Malware detection for robot network systems", *2021 IEEE International Conference on Robotic Computing (IRC)*. Taichung, Taiwan, November 15-17, 2021. 
 
 
 
